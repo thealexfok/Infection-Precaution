@@ -19,13 +19,13 @@ st.image("logo.png")
 st.title("Infection Precautions Dictionary")
 st.write("Search for an infection or condition to view recommended isolation precautions.")
 
-# Real-time search input
-search_term = st.text_input("Search for an infection or condition", "", key="search_term")
+# Real-time search input without modifying session state directly
+search_input = st.text_input("Search for an infection or condition", value="")
 
 # Real-time filtering based on fuzzy matching
-if search_term:
+if search_input:
     # Perform fuzzy matching on the "Infection/Condition" column
-    matches = fuzzy_search(search_term, data['Infection/Condition'].tolist())
+    matches = fuzzy_search(search_input, data['Infection/Condition'].tolist())
     
     if matches:
         # Filter data to show only matching results
@@ -36,7 +36,6 @@ if search_term:
         st.write("No matching infections found.")
 else:
     st.write("Please enter an infection name to search.")
-
 
 # Expandable section to view all data
 with st.expander("View all infections"):
