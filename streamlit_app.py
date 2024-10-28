@@ -1,31 +1,45 @@
 import streamlit as st
 import pandas as pd
+from fuzzywuzzy import process
 
 # Load the data with caching to avoid reloading on every interaction
-@st.cache
+@st.cache_data
 def load_data():
     return pd.read_csv("infection_data.csv")
 
 data = load_data()
 
+# Helper function for fuzzy matching
+def fuzzy_search(query, choices, limit=5, threshold=70):
+    results = process.extract(query, choices, limit=limit)
+    return [choice for choice, score in results if score >= threshold]
+
 # App layout
+st.image("logo.png")
 st.title("Infection Precautions Dictionary")
-st.write("Search for infection/condition and view the recommended isolation precautions.")
+st.write("Search for an infection or condition to view recommended isolation precautions.")
 
-# Search bar
-search_term = st.text_input("Search for an infection or condition", "")
+# Real-time search input
+search_term = st.text_input("Search for an infection or condition", "", key="search_term")
 
-# Filter data based on the search term
+# Real-time filtering based on fuzzy matching
 if search_term:
-    filtered_data = data[data['Infection/Condition'].str.contains(search_term, case=False, na=False)]
-    if not filtered_data.empty:
+    # Perform fuzzy matching on the "Infection/Condition" column
+    matches = fuzzy_search(search_term, data['Infection/Condition'].tolist())
+    
+    if matches:
+        # Filter data to show only matching results
+        filtered_data = data[data['Infection/Condition'].isin(matches)]
         st.write("### Search Results")
-        st.write(filtered_data[['Infection/Condition', 'Type of Precaution', 'Duration of Precaution', 'Precautions/Comments']])
+        st.table(filtered_data[['Infection/Condition', 'Type of Precaution', 'Duration of Precaution', 'Precautions/Comments']])
     else:
         st.write("No matching infections found.")
 else:
     st.write("Please enter an infection name to search.")
 
+
 # Expandable section to view all data
 with st.expander("View all infections"):
-    st.dataframe(data[['Infection/Condition', 'Type of Precaution', 'Duration of Precaution', 'Precautions/Comments']])
+    st.table(data[['Infection/Condition', 'Type of Precaution', 'Duration of Precaution', 'Precautions/Comments']])
+
+st.write("Data sourced from \n\n https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html")
