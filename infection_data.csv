@@ -1,510 +1,299 @@
-﻿Infection/Condition,Type of Precaution,Duration of Precaution,Precautions/Comments
-Abscess,Contact + Standard,Duration of illness,Until drainage stops or can be contained by dressing.
-"Draining, major",,,
-Abscess,Standard,n/a,If dressing covers and contains drainage.
-"Draining, minor or limited",,,
-Acquired human immunodeficiency syndrome (HIV),Standard,n/a,Postexposure chemoprophylaxis for some blood exposures [866].
-Actinomycosis,Standard,n/a,Not transmitted from person to person.
-"Adenovirus infection (see agent-specific guidance under Gastroenteritis, Conjunctivitis, Pneumonia)",n/a,n/a,n/a
-Amebiasis,Standard,n/a,Person-to-person transmission is rare. Transmission in settings for the mentally challenged and in a family group has been reported [1045]. Use care when handling diapered infants and mentally challenged persons [1046].
-Andes virus,See comments,"Duration of precautions should be determined on a case-by-case basis, in conjunction with local, state, and federal health authorities.",Patient Placement: AIIR
-Andes virus [September 2024] Update: New precaution recommendations for Andes virus.,,"Factors that should be considered include, but are not limited to, presence of symptoms, date symptoms resolved, other conditions that would require specific precautions (e.g. tuberculosis, Clostridium difficile) and available laboratory information.",
-,,,
-,,,"PPE: Gown, gloves, eye protection, N95® respirator or higher"
-Anthrax,Standard,n/a,Infected patients do not generally pose a transmission risk.
-Anthrax,Standard,n/a,"Transmission through non-intact skin contact with draining lesions possible, therefore use Contact Precautions if large amount of uncontained drainage. Handwashing with soap and water preferable to use of waterless alcohol-based antiseptics since alcohol does not have sporicidal activity [983]."
-Cutaneous,,,
-Anthrax,Standard,n/a,Not transmitted from person to person.
-Pulmonary,,,
-Anthrax,n/a,Until environment completely decontaminated,"Until decontamination of environment complete [203]. Wear respirator (N95 mask or PAPRs), protective clothing; decontaminate persons with powder on them (Notice to Readers: Occupational Health Guidelines for Remediation Workers at Bacillus anthracis-Contaminated Sites — United States, 2001–2002 accessed September 2018)."
-Environmental: aerosolizable spore-containing powder or other substance,,,Hand hygiene: Handwashing for 30-60 seconds with soap and water or 2% chlorhexidine gluconate after spore contact (alcohol handrubs inactive against spores [983].)
-,,,"Postexposure prophylaxis following environmental exposure: 60 days of antimicrobials (either doxycycline, ciprofloxacin, or levofloxacin) and postexposure vaccine under IND."
-Antibiotic-associated colitis (see Clostridium difficile),n/a,n/a,n/a
-Arthropod-borne,Standard,n/a,Install screens in windows and doors in endemic areas.
-"viral encephalitides (eastern, western, Venezuelan equine encephalomyelitis; St Louis, California encephalitis; West Nile Virus) and",,,Use DEET-containing mosquito repellants and clothing to cover extremities.
-"viral fevers (dengue, Oropouche, yellow fever, Colorado tick fever)",,,
-,,,
-Ascariasis,Standard,n/a,Not transmitted from person to person.
-Aspergillosis,Standard,n/a,Contact Precautions and Airborne if massive soft tissue infection with copious drainage and repeated irrigations required [154].
-"Avian influenza (see influenza, avian below)",n/a,n/a,n/a
-Babesiosis,Standard,n/a,"Not transmitted from person to person, except rarely by transfusion."
-"Blastomycosis, North American, cutaneous or pulmonary",Standard,n/a,Not transmitted from person to person.
-Botulism,Standard,n/a,Not transmitted from person to person.
-Bronchiolitis (see Respiratory Infections in infants and young children),Contact + Standard,Duration of illness,Use mask according to Standard Precautions.
-"Brucellosis (undulant, Malta, Mediterranean fever)",Standard,n/a,"Not transmitted from person to person, except rarely via banked spermatozoa and sexual contact [1048, 1049]. Provide antimicrobial prophylaxis following laboratory exposure [1050]."
-Campylobacter gastroenteritis (see Gastroenteritis),n/a,n/a,n/a
-"Candidiasis, all forms including mucocutaneous",Standard,n/a,n/a
-Cat-scratch fever (benign inoculation lymphoreticulosis),Standard,n/a,Not transmitted from person to person.
-Cellulitis,Standard,n/a,n/a
-Chancroid (soft chancre) (H. ducreyi),Standard,n/a,Transmitted sexually from person to person.
-Chickenpox (see Varicella),n/a,n/a,n/a
-Chlamydia trachomatis,Standard,n/a,n/a
-Conjunctivitis,,,
-Chlamydia trachomatis,Standard,n/a,n/a
-Genital (lymphogranuloma venereum),,,
-Chlamydia trachomatis,Standard,n/a,n/a
-Pneumonia (infants ≤3 mos. of age),,,
-Chlamydia pneumoniae,Standard,n/a,"Outbreaks in institutionalized populations reported, rarely [1051, 1052]."
-Cholera (see Gastroenteritis),n/a,n/a,n/a
-Closed-cavity infection,Standard,n/a,Contact Precautions if there is copious uncontained drainage.
-Open drain in place; limited or minor drainage,,,
-Closed-cavity infection,Standard,n/a,n/a
-No drain or closed drainage system in place,,,
-Clostridium botulinum,Standard,n/a,Not transmitted from person to person.
-"Clostridium difficile (see Gastroenteritis, C. difficile)",Contact + Standard,Duration of illness,n/a
-Clostridium perfringens,Standard,n/a,Not transmitted from person to person.
-Food poisoning,,,
-Clostridium perfringens,Standard,n/a,Transmission from person to person rare; 1 outbreak in a surgical setting reported [1053]. Use Contact Precautions if wound drainage is extensive.
-Gas gangrene,,,
-Coccidioidomycosis (valley fever),Standard,n/a,"Not transmitted from person to person except under extraordinary circumstances, because the infectious arthroconidial form of Coccidioides immitis is not produced in humans [1054]."
-Draining lesions,,,
-Coccidioidomycosis (valley fever),Standard,n/a,"Not transmitted from person to person except under extraordinary circumstances, (e.g., inhalation of aerosolized tissue phase endospores during necropsy, transplantation of infected lung) because the infectious arthroconidial form of Coccidioides immitis is not produced in humans [1054, 1055]."
-Pneumonia,,,
-Colorado tick fever,Standard,n/a,Not transmitted from person to person.
-Congenital rubella,Contact + Standard,Until 1 yr of age,Standard Precautions if nasopharyngeal and urine cultures repeatedly negative after 3 mos. of age.
-Conjunctivitis,Standard,n/a,n/a
-Acute bacterial,,,
-Conjunctivitis,Standard,n/a,n/a
-Acute bacterial,,,
-Chlamydia,,,
-Conjunctivitis,Standard,n/a,n/a
-Acute bacterial,,,
-Gonococcal,,,
-Conjunctivitis,Contact + Standard,Duration of illness,"Adenovirus most common; enterovirus 70 [1056], Coxsackie virus A24 [1057] also associated with community outbreaks. Highly contagious; outbreaks in eye clinics, pediatric and neonatal settings, institutional settings reported. Eye clinics should follow Standard Precautions when handling patients with conjunctivitis. Routine use of infection control measures in the handling of instruments and equipment will prevent the occurrence of outbreaks in this and other settings. [460, 461, 814, 1058-1060]."
-Acute viral (acute hemorrhagic),,,
-Corona virus associated with SARS (SARS-CoV) (see Severe Acute Respiratory Syndrome),n/a,n/a,n/a
-Coxsackie virus disease (see enteroviral infection),n/a,n/a,n/a
-"Creutzfeldt-Jakob disease (CJD, vCJD)",Standard,n/a,"Use disposable instruments or special sterilization/disinfection for surfaces, objects contaminated with neural tissue if CJD or vCJD suspected and has not been R/O; No special burial procedures. [1061]"
-Croup (see Respiratory Infections in infants and young children),n/a,n/a,n/a
-Crimean-Congo Fever (see Viral Hemorrhagic Fever),,n/a,n/a
-Cryptococcosis,Standard,n/a,"Not transmitted from person to person, except rarely via tissue and corneal transplant. [1062, 1063]"
-Cryptosporidiosis (see Gastroenteritis),n/a,n/a,n/a
-Cysticercosis,Standard,n/a,Not transmitted from person to person.
-"Cytomegalovirus infection, including in neonates and immunosuppressed patients",Standard,n/a,No additional precautions for pregnant HCWs.
-Decubitus ulcer (see Pressure Ulcer),n/a,n/a,n/a
-Dengue fever,Standard,n/a,Not transmitted from person to person.
-"Diarrhea, acute-infective etiology suspected (see Gastroenteritis)",n/a,n/a,n/a
-Diphtheria,Contact + Standard,Until off antimicrobial treatment and culture-negative,Until 2 cultures taken 24 hours apart negative.
-Cutaneous,,,
-Diphtheria,Droplet + Standard,Until off antimicrobial treatment and culture-negative,Until 2 cultures taken 24 hours apart negative.
-Pharyngeal,,,
-Ebola virus (see Viral Hemorrhagic Fevers),n/a,n/a,
-Echinococcosis (hydatidosis),Standard,n/a,Not transmitted from person to person.
-Echovirus (see Enteroviral Infection),n/a,n/a,n/a
-Encephalitis or encephalomyelitis (see specific etiologic agents),n/a,n/a,n/a
-Endometritis (endomyometritis),Standard,n/a,n/a
-"Enterobiasis (pinworm disease, oxyuriasis)",Standard,n/a,n/a
-Enterococcus species (see Multidrug-Resistant Organisms if epidemiologically significant or vancomycin-resistant),n/a,n/a,n/a
-"Enterocolitis, C. difficile (see Gastroenteritis, C. difficile)",n/a,n/a,n/a
-"Enteroviral infections (i.e., Group A and B Coxsackie viruses and Echo viruses) (excludes polio virus)",Standard,n/a,Use Contact Precautions for diapered or incontinent children for duration of illness and to control institutional outbreaks.
-"Epiglottitis, due to Haemophilus influenzae type b",Droplet + Standard,Until 24 hours after initiation of effective therapy,See specific disease agents for epiglottitis due to other etiologies.
-"Epstein-Barr virus infection, including infectious mononucleosis",Standard,n/a,n/a
-Erythema infectiosum (also see Parvovirus B19),n/a,n/a,n/a
-Escherichia coli gastroenteritis (see Gastroenteritis),n/a,n/a,n/a
-Food poisoning,Standard,n/a,Not transmitted from person to person.
-Botulism,,,
-Food poisoning,Standard,n/a,Not transmitted from person to person.
-C. perfringens or welchii,,,
-Food poisoning,Standard,n/a,Not transmitted from person to person.
-Staphylococcal,,,
-"Furunculosis, staphylococcal",Standard,n/a,Contact if drainage not controlled. Follow institutional policies if MRSA.
-"Furunculosis, staphylococcal",Contact + Standard,"Duration of illness (with wound lesions, until wounds stop draining)",n/a
-Infants and young children,,,
-Gangrene (gas gangrene),Standard,n/a,Not transmitted from person to person.
-Gastroenteritis,Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks for gastroenteritis caused by all of the agents below.
-Gastroenteritis,Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks.
-Adenovirus,,,
-Gastroenteritis,Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks.
-Campylobacter species,,,
-Gastroenteritis,Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks.
-Cholera (Vibrio cholerae),,,
-Gastroenteritis,Contact + Standard,Duration of illness,"Discontinue antibiotics if appropriate. Do not share electronic thermometers; [853, 854] ensure consistent environmental cleaning and disinfection. Hypochlorite solutions may be required for cleaning if transmission continues [847]. Handwashing with soap and water preferred because of the absence of sporicidal activity of alcohol in waterless antiseptic handrubs [983]."
-C. difficile,,,
-Gastroenteritis,Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks.
-Cryptosporidium species,,,
-Gastroenteritis,Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks.
-E. coli,,,
-Enteropathogenic O157:H7 and other Shiga toxin-producing strains,,,
-Gastroenteritis,Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks.
-E. coli,,,
-Other species,,,
-Gastroenteritis,Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks.
-Giardia lamblia,,,
-Gastroenteritis,Update: Contact + Standard,n/a,Use Contact Precautions for a minimum of 48 hours after the resolution of symptoms or to control institutional outbreaks.
-Noroviruses,,,
-,,,"Persons who clean areas heavily contaminated with feces or vomitus may benefit from wearing masks since virus can be aerosolized from these body substances [142, 147 148]; ensure consistent environmental cleaning and disinfection with focus on restrooms even when apparently unsoiled [273, 1064]. Hypochlorite solutions may be required when there is continued transmission [290-292]. Alcohol is less active, but there is no evidence that alcohol antiseptic handrubs are not effective for hand decontamination [294]."
-,,,
-,,,Cohorting of affected patients to separate airspaces and toilet facilities may help interrupt transmission during outbreaks.
-,,,
-,,,"Gastroenteritis, Noroviruses Precaution Update [April 2019]"
-,,,Update: The Type of Precaution was updated from “Standard” to “Contact + Standard” to align with Guideline for the Prevention and Control of Norovirus Gastroenteritis Outbreaks in Healthcare Settings (2011).
-Gastroenteritis,Contact + Standard,Duration of illness,"Ensure consistent environmental cleaning and disinfection and frequent removal of soiled diapers. Prolonged shedding may occur in both immunocompetent and immunocompromised children and the elderly [932, 933]."
-Rotavirus,,,
-Gastroenteritis,Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks.
-Salmonella species (including S. typhi),,,
-Gastroenteritis,Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks.
-Shigella species (Bacillary dysentery),,,
-Gastroenteritis,Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks.
-Vibrio parahaemolyticus,,,
-Gastroenteritis,Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks.
-Viral (if not covered elsewhere),,,
-Gastroenteritis,Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks.
-Yersinia enterocolitica,,,
-German measles (see Rubella; see Congenital Rubella),n/a,n/a,n/a
-Giardiasis (see Gastroenteritis),n/a,n/a,n/a
-"Gonococcal ophthalmia neonatorum (gonorrheal ophthalmia, acute conjunctivitis of newborn)",Standard,n/a,n/a
-Gonorrhea,Standard,n/a,n/a
-"Granuloma inguinale (Donovanosis, granuloma venereum)",Standard,n/a,n/a
-Guillain-Barré syndrome,Standard,n/a,Not an infectious condition.
-Haemophilus influenzae (see disease-specific recommendations),n/a,n/a,n/a
-"Hand, foot, and mouth disease (see Enteroviral Infection)",n/a,n/a,n/a
-Hansen’s Disease (see Leprosy),n/a,n/a,n/a
-Hantavirus pulmonary syndrome,Standard,n/a,Not transmitted from person to person.
-Helicobacter pylori,Standard,n/a,n/a
-"Hepatitis, viral",Standard,n/a,Provide hepatitis A vaccine postexposure as recommended. [1065]
-Type A,,,
-"Hepatitis, viral",Contact + Standard,n/a,"Maintain Contact Precautions in infants and children <3 years of age for duration of hospitalization; for children 3-14 yrs. of age for 2 weeks after onset of symptoms; >14 yrs. of age for 1 week after onset of symptoms [833, 1066, 1067]."
-Type A-Diapered or incontinent patients,,,
-"Hepatitis, viral",Standard,n/a,See specific recommendations for care of patients in hemodialysis centers. [778]
-Type B-HBsAg positive; acute or chronic,,,
-"Hepatitis, viral",Standard,n/a,See specific recommendations for care of patients in hemodialysis centers. [778]
-"Type C and other unspecified non-A, non-B",,,
-"Hepatitis, viral",Standard,n/a,n/a
-Type D (seen only with hepatitis B),,,
-"Hepatitis, viral",Standard,n/a,Use Contact Precautions for diapered or incontinent individuals for the duration of illness. [1068]
-Type E,,,
-"Hepatitis, viral",Standard,n/a,n/a
-Type G,,,
-Herpangina (see Enteroviral Infection),n/a,n/a,n/a
-Hookworm,Standard,n/a,n/a
-Herpes simplex (Herpesvirus hominis),Standard,n/a,n/a
-Encephalitis,,,
-Herpes simplex (Herpesvirus hominis),Contact + Standard,Until lesions dry and crusted,n/a
-"Mucocutaneous, disseminated or primary, severe",,,
-Herpes simplex (Herpesvirus hominis),Standard,n/a,n/a
-"Mucocutaneous, recurrent (skin, oral, genital)",,,
-Herpes simplex (Herpesvirus hominis),Contact + Standard,Until lesions dry and crusted,"Also, for asymptomatic, exposed infants delivered vaginally or by C-section and if mother has active infection and membranes have been ruptured for more than 4 to 6 hours until infant surface cultures obtained at 24-36 hours of age negative after 48 hours incubation. [1069, 1070]"
-Neonatal,,,
-Herpes zoster (varicella-zoster) (shingles),Airborne + Contact + Standard,Duration of illness,Susceptible HCWs should not enter room if immune caregivers are available; no recommendation for protection of immune HCWs; no recommendation for type of protection (i.e. surgical mask or respirator) for susceptible HCWs.
-Disseminated disease in any patient,,,
-Localized disease in immunocompromised patient until disseminated infection ruled out,,,
-Herpes zoster (varicella-zoster) (shingles),Standard,Until lesions dry and crusted,Susceptible HCWs should not provide direct patient care when other immune caregivers are available.
-Localized in patient with intact immune system with lesions that can be contained/covered,,,
-Histoplasmosis,Standard,n/a,Not transmitted from person to person.
-Human immunodeficiency virus (HIV),Standard,n/a,Postexposure chemoprophylaxis for some blood exposures [866].
-Human metapneumovirus,Contact + Standard,Duration of illness,"HAI reported [1071], but route of transmission not established [823]. Assumed to be Contact transmission as for RSV since the viruses are closely related and have similar clinical manifestations and epidemiology. Wear masks according to Standard Precautions."
-Impetigo,Contact + Standard,Until 24 hours after initiation of effective therapy,n/a
-Infectious mononucleosis,Standard,n/a,n/a
-Influenza,n/a,n/a,See Prevention Strategies for Seasonal Influenza in Healthcare Settings (accessed September 2018). [Current version of this document may differ from original.] for current seasonal influenza guidance.
-Human (seasonal influenza),,,
-Influenza,n/a,n/a,"See [This link is no longer active: www.cdc.gov/flu/avian/professional/infect-control.htm. Similar information may be found at Interim Guidance for Infection Control Within Healthcare Settings When Caring for Confirmed Cases, Probable Cases, and Cases Under Investigation for Infection with Novel Influenza A Viruses Associated with Severe Disease (accessed September 2018).] for current avian influenza guidance."
-"Avian (e.g., H5N1, H7, H9 strains)",,,
-Influenza,Droplet + Standard,n/a,"See [This link is no longer active: http://www.pandemicflu.gov. Similar information may be found at Interim Guidance for Infection Control Within Healthcare Settings When Caring for Confirmed Cases, Probable Cases, and Cases Under Investigation for Infection with Novel Influenza A Viruses Associated with Severe Disease (accessed September 2018).] for current pandemic influenza guidance."
-Pandemic Influenza (also a human influenza virus),,,
-Kawasaki syndrome,Standard,n/a,Not an infectious condition.
-Lassa fever (see Viral Hemorrhagic Fevers),n/a,n/a,n/a
-Legionnaires’ disease,Standard,n/a,Not transmitted from person to person.
-Leprosy,Standard,n/a,n/a
-Leptospirosis,Standard,n/a,Not transmitted from person to person.
-Lice,Contact + Standard,Until 24 hours after initiation of effective therapy,See [This link is no longer active: https://www.cdc.gov/ncidod/dpd/parasites/lice/default.htm. Similar information may be found at CDC’s Parasites – Lice (accessed September 2018).]
-Head (pediculosis),,,
-Lice,Standard,n/a,Transmitted person-to-person through infested clothing. Wear gown and gloves when removing clothing; bag and wash clothes according to CDC guidance Parasites – Lice (accessed September 2018).
-Body,,,
-Lice,Standard,n/a,Transmitted person-to-person through sexual contact. See CDC’s Parasites – Lice (accessed September 2018).
-Pubic,,,
-Listeriosis (listeria monocytogenes),Standard,n/a,Person-to-person transmission rare; cross-transmission in neonatal settings reported. [1072-1075]
-Lyme disease,Standard,n/a,Not transmitted from person to person.
-Lymphocytic choriomeningitis,Standard,n/a,Not transmitted from person to person.
-Lymphogranuloma venereum,Standard,n/a,n/a
-Malaria,Standard,n/a,"Not transmitted from person to person, except through transfusion rarely and through a failure to follow Standard Precautions during patient care. [1076-1079] Install screens in windows and doors in endemic areas. Use DEET- containing mosquito repellants and clothing to cover extremities."
-Marburg virus disease (see Viral Hemorrhagic Fevers),n/a,n/a,n/a
-Measles (rubeola),Airborne + Standard,4 days after onset of rash; duration of illness in immune compromised,Interim Measles Infection Control [July 2019]
-,,,
-,,, See Interim Infection Prevention and Control Recommendations for Measles in Healthcare Settings
-,,,
-,,,"Susceptible healthcare personnel (HCP) should not enter room if immune care providers are available; regardless of presumptive evidence of immunity, HCP should use respiratory protection that is at least as protective as a fit-tested, NIOSH-certified N95 respirator upon entry into the patient’s room or care area. For exposed susceptibles, postexposure vaccine within 72 hours or immune globulin within 6 days when available [17, 1032, 1034]. Place exposed susceptible patients on Airborne Precautions and exclude susceptible healthcare personnel."
-"Melioidosis, all forms",Standard,n/a,Not transmitted from person to person.
-Meningitis,Standard,n/a,Contact for infants and young children.
-Aseptic (nonbacterial or viral; also see Enteroviral infections),,,
-Meningitis,Standard,n/a,n/a
-"Bacterial, gram-negative enteric, in neonates",,,
-Meningitis,Standard,n/a,n/a
-Fungal,,,
-Meningitis,Droplet + Standard,Until 24 hours after initiation of effective therapy,n/a
-"Haemophilus Influenzae, type b known or suspected",,,
-Meningitis,Standard,n/a,n/a
-Listeria monocytogenes (See Listeriosis),,,
-Meningitis,Droplet + Standard,Until 24 hours after initiation of effective therapy,See Meningococcal Disease below.
-Neisseria meningitidis (meningococcal) known or suspected,,,
-Meningitis,Standard,n/a,n/a
-Streptococcus pneumoniae,,,
-Meningitis,Standard,n/a,"Concurrent, active pulmonary disease or draining cutaneous lesions may necessitate addition of Contact and/or Airborne. For children, Airborne Precautions until active tuberculosis ruled out in visiting family members (see Tuberculosis below). [42]"
-M. tuberculosis,,,
-Meningitis,Standard,n/a,n/a
-Other diagnosed bacterial,,,
-"Meningococcal disease: sepsis, pneumonia, Meningitis",Droplet + Standard,Until 24 hours after initiation of effective therapy,"Postexposure chemoprophylaxis for household contacts, HCWs exposed to respiratory secretions; postexposure vaccine only to control outbreaks. [15, 17]"
-Molluscum contagiosum,Standard,n/a,n/a
-Monkeypox,,,See CDC’s Monkeypox website (accessed May 2022) for information on infection prevention and control.
-,,,
-Mucormycosis,Standard,n/a,n/a
-"Multidrug-resistant organisms (MDROs), infection or colonization (e.g., MRSA, VRE, VISA/VRSA, ESBLs, resistant S. pneumoniae)",Contact + Standard,n/a,"MDROs judged by the infection control program, based on local, state, regional, or national recommendations, to be of clinical and epidemiologic significance. Contact Precautions recommended in settings with evidence of ongoing transmission, acute care settings with increased risk for transmission or wounds that cannot be contained by dressings. See recommendations for management options in Management of Multidrug-Resistant Organisms In Healthcare Settings, 2006 [870]. Contact state health department for guidance regarding new or emerging MDRO."
-Mumps (infectious parotitis),Droplet + Standard,Until 5 days after the onset of swelling,Mumps [October 2017]
-,,, Update: The Healthcare Infection Control Practices Advisory Committee (HICPAC) voted to change the recommendation of isolation for persons with mumps from 9 days to 5 days based on this 2008 MMWR reportUpdated Recommendations for Isolation of Persons with Mumps (accessed September 2018).
-,,,
-,,,After onset of swelling; susceptible HCWs should not provide care if immune caregivers are available.
-,,,The below note has been superseded by the above recommendation update
-,,,Note: (Recent assessment of outbreaks in healthy 18-24 year olds has indicated that salivary viral shedding occurred early in the course of illness and that 5 days of isolation after onset of parotitis may be appropriate in community settings; however the implications for healthcare personnel and high-risk patient populations remain to be clarified.)
-"Mycobacteria, nontuberculosis (atypical)",n/a,Not transmitted person-to-person.,n/a
-"Mycobacteria, nontuberculosis (atypical)",Pulmonary,Standard,n/a
-"Mycobacteria, nontuberculosis (atypical)",Wound,Standard,n/a
-Mycoplasma pneumonia,Droplet + Standard,Duration of Illness,n/a
-Necrotizing enterocolitis,Standard,n/a,Contact Precautions when cases clustered temporally [1080-1083].
-Nipah virus,See comments,"Duration of precautions should be determined on a case-by-case basis, in conjunction with local, state, and federal health authorities.",Patient Placement: AIIR
-Nipah virus [September 2024] Update: New precaution recommendations for Nipah virus.,,"Factors that should be considered include, but are not limited to, presence of symptoms, date symptoms resolved, other conditions that would require specific precautions (e.g. tuberculosis, Clostridium difficile) and available laboratory information.",
-,,,
-,,,PPE:
-,,,
-,,,
-,,,
-,,,"If suspect Nipah case and clinically stable: gown, gloves, eye protection, N95® respirator or higher"
-,,,
-,,,
-,,,
-,,,"If suspect Nipah and clinically unstable (e.g. hemodynamic instability, vomiting) OR confirmed Nipah case regardless of clinical stability: use PPE according to guidance for confirmed patients and clinically unstable patients suspected to have VHF"
-"Nocardiosis, draining lesions, or other presentations",Standard,n/a,Not transmitted person-to-person.
-Norovirus (see Gastroenteritis),n/a,n/a,n/a
-Norwalk agent Gastroenteritis (see Gastroenteritis),n/a,n/a,n/a
-Orf,Standard,n/a,n/a
-"Parainfluenza virus infection, respiratory in infants and young children",Contact + Standard,Duration of illness,"Viral shedding may be prolonged in immunosuppressed patients [1009, 1010]. Reliability of antigen testing to determine when to remove patients with prolonged hospitalizations from Contact Precautions uncertain."
-Parvovirus B19 (Erythema infectiosum),Droplet + Standard,n/a,"Maintain precautions for duration of hospitalization when chronic disease occurs in an immunocompromised patient. For patients with transient aplastic crisis or red-cell crisis, maintain precautions for 7 days. Duration of precautions for immunosuppressed patients with persistently positive PCR not defined, but transmission has occurred [929]."
-Pediculosis (lice),Contact + Standard,Until 24 hours after initiation of effective therapy after treatment,n/a
-Pertussis (whooping cough),Droplet + Standard,Until 5 days after initiation of effective antibiotic therapy,Single patient room preferred. Cohorting an option. Postexposure chemoprophylaxis for household contacts and HCWs with prolonged exposure to respiratory secretions [863]. Recommendations for Tdap vaccine in adults under development.
-,,,
-,,,Tdap Vaccine Recommendations [2018]
-,,,
-,,,Update: Current recommendations can be found at Tdap / Td ACIP Vaccine Recommendations (accessed September 2018).
-Pinworm infection (Enterobiasis),Standard,n/a,n/a
-Plague (Yersinia pestis),Standard,n/a,n/a
-Bubonic,,,
-Plague (Yersinia pestis),Droplet + Standard,Until 48 hours after initiation of effective antibiotic therapy,Antimicrobial prophylaxis for exposed HCW [207].
-Pneumonic,,,
-Pneumonia,Droplet + Contact + Standard,Duration of illness,"Outbreaks in pediatric and institutional settings reported [376, 1084-1086]. In immunocompromised hosts, extend duration of Droplet and Contact Precautions due to prolonged shedding of virus. [931]"
-Adenovirus,,,
-Pneumonia,Standard,n/a,n/a
-Bacterial not listed elsewhere (including gram-negative bacterial),,,
-Pneumonia,Contact + Standard,Unknown,Avoid exposure to other persons with CF; private room preferred. Criteria for D/C precautions not established. See CF Foundation guideline. [20]
-"B. cepacia in patients with CF, including respiratory tract colonization",,,
-Pneumonia,n/a,n/a,n/a
-B. cepacia in patients without CF (see Multidrug-Resistant Organisms),,,
-Pneumonia,Standard,n/a,n/a
-Chlamydia,,,
-Pneumonia,Standard,n/a,n/a
-Fungal,,,
-Pneumonia,Standard,n/a,n/a
-"Haemophilus influenzae, type b",,,
-Adults,,,
-Pneumonia,Droplet + Standard,Until 24 hours after initiation of effective therapy,n/a
-"Haemophilus influenzae, type b",,,
-Infants and children,,,
-Pneumonia,Standard,n/a,n/a
-Legionella spp.,,,
-Pneumonia .,Droplet + Standard,Until 24 hours after initiation of effective therapy,See Meningococcal Disease above.
-Meningococcal,,,
-Pneumonia,n/a,n/a,n/a
-Multidrug-resistant bacterial (see Multidrug-Resistant Organisms),,,
-Pneumonia,Droplet + Standard,Duration of illness,n/a
-Mycoplasma (primary atypical Pneumonia),,,
-Pneumonia,Standard,n/a,"Use Droplet Precautions if evidence of transmission within a patient care unit or facility. [196-198, 1087]"
-Pneumococcal pneumonia,,,
-Pneumonia,Standard,n/a,Avoid placement in the same room with an immunocompromised patient.
-Pneumocystis jiroveci (Pneumocystis carinii),,,
-Pneumonia,Standard,n/a,"For MRSA, see MDROs."
-Staphylococcus aureus,,,
-Pneumonia,Droplet + Standard,Until 24 hours after initiation of effective therapy,See Streptococcal Disease (group A Streptococcus) below
-"Streptococcus, group A",,,
-Adults,,,Contact Precautions if skin lesions present.
-,,,
-Pneumonia,Droplet + Standard,Until 24 hours after initiation of effective therapy,Contact Precautions if skin lesions present.
-"Streptococcus, group A",,,
-Infants and young children,,,
-Pneumonia,n/a,n/a,n/a
-Varicella-Zoster (See Varicella-Zoster),,,
-Pneumonia,Standard,n/a,n/a
-Viral,,,
-Adults,,,
-Pneumonia,n/a,n/a,n/a
-Viral,,,
-"Infants and young children (see Respiratory Infectious Disease, acute, or specific viral agent)",,,
-Poliomyelitis,Contact + Standard,Duration of illness,n/a
-"Pressure ulcer (decubitus ulcer, pressure sore) infected",Contact + Standard,Duration of illness,Until drainage stops or can be contained by dressing.
-Major,,,
-"Pressure ulcer (decubitus ulcer, pressure sore) infected",Standard,n/a,If dressing covers and contains drainage.
-Minor or limited,,,
-Prion disease (See Creutzfeld-Jacob Disease),n/a,n/a,n/a
-Psittacosis (ornithosis) (Chlamydia psittaci),Standard,n/a,Not transmitted from person to person.
-Q fever,Standard,n/a,n/a
-Rabies,Standard,n/a,"Person to person transmission rare; transmission via corneal, tissue and organ transplants has been reported [539, 1088]. If patient has bitten another individual or saliva has contaminated an open wound or mucous membrane, wash exposed area thoroughly and administer postexposure prophylaxis. [1089]"
-"Rat-bite fever (Streptobacillus moniliformis disease, Spirillum minus disease)",Standard,n/a,Not transmitted from person to person.
-Relapsing fever,Standard,n/a,Not transmitted from person to person.
-Resistant bacterial infection or colonization (see Multidrug-Resistant Organisms),n/a,n/a,n/a
-"Respiratory infectious disease, acute (if not covered elsewhere)",Standard,n/a,n/a
-Adults,,,
-"Respiratory infectious disease, acute (if not covered elsewhere)",Contact + Standard,Duration of illness,Also see syndromes or conditions listed in Table 2.
-Infants and young children,,,
-"Respiratory syncytial virus infection, in infants, young children and immunocompromised adults",Contact + Standard,Duration of illness,"Wear mask according to Standard Precautions [24] CB [116, 117]. In immunocompromised patients, extend the duration of Contact Precautions due to prolonged shedding [928]. Reliability of antigen testing to determine when to remove patients with prolonged hospitalizations from Contact Precautions uncertain."
-Reye’s syndrome,Standard,n/a,Not an infectious condition.
-Rheumatic fever,Standard,n/a,Not an infectious condition.
-Rhinovirus,Droplet + Standard,Duration of illness,"Droplet most important route of transmission [104 1090]. Outbreaks have occurred in NICUs and LTCFs [413, 1091, 1092]. Add Contact Precautions if copious moist secretions and close contact likely to occur (e.g., young infants) [111, 833]."
-"Rickettsial fevers, tickborne (Rocky Mountain spotted fever, tickborne Typhus fever)",Standard,n/a,"Not transmitted from person to person except through transfusion, rarely."
-Rickettsialpox (vesicular rickettsiosis),Standard,n/a,Not transmitted from person to person.
-"Ringworm (dermatophytosis, dermatomycosis, tinea)",Standard,n/a,"Rarely, outbreaks have occurred in healthcare settings, (e.g., NICU [1093], rehabilitation hospital [1094]. Use Contact Precautions for outbreak."
-Rocky Mountain spotted fever,Standard,n/a,"Not transmitted from person to person except through transfusion, rarely."
-Roseola infantum (exanthem subitum; caused by HHV-6),Standard,n/a,n/a
-Rotavirus infection (see Gastroenteritis),n/a,n/a,n/a
-Rubella (German measles) (also see Congenital Rubella),Droplet + Standard,Until 7 days after onset of rash,"Susceptible HCWs should not enter room if immune caregivers are available. No recommendation for wearing face protection (e.g., a surgical mask) if immune. Pregnant women who are not immune should not care for these patients [17, 33]. Administer vaccine within 3 days of exposure to non-pregnant susceptible individuals."
-,,,
-,,,"Place exposed susceptible patients on Droplet Precautions; exclude susceptible healthcare personnel from duty from day 5 after first exposure to day 21 after last exposure, regardless of postexposure vaccine."
-,,,
-Rubeola (see Measles),n/a,n/a,n/a
-Salmonellosis (see Gastroenteritis),n/a,n/a,n/a
-Scabies,Contact + Standard,Until 24 hours after initiation of effective therapy,n/a
-"Scalded skin syndrome, staphylococcal",Contact + Standard,Duration of illness,"See Staphylococcal Disease, scalded skin syndrome below."
-Schistosomiasis (bilharziasis),Standard,n/a,n/a
-Severe acute respiratory syndrome (SARS),Airborne + Droplet + Contact + Standard,"Duration of illness plus 10 days after resolution of fever, provided respiratory symptoms are absent or improving","Airborne preferred; Droplet if AIIR unavailable. N95 or higher respiratory protection; surgical mask if N95 unavailable; eye protection (goggles, face shield); aerosol-generating procedures and “supershedders” highest risk for transmission via small droplet nuclei and large droplets [93, 94, 96]."
-,,,
-,,,Vigilant environmental disinfection (see [This link is no longer active: www.cdc.gov/ncidod/sars. Similar information may be found at CDC Severe Acute Respiratory Syndrome (SARS) (accessed September 2018).])
-,,,
-Shigellosis (see Gastroenteritis),n/a,n/a,n/a
-Smallpox (variola; see Vaccinia for management of vaccinated persons),Airborne + Contact + Standard,Duration of illness,"Until all scabs have crusted and separated (3-4 weeks). Non-vaccinated HCWs should not provide care when immune HCWs are available; N95 or higher respiratory protection for susceptible and successfully vaccinated individuals; postexposure vaccine within 4 days of exposure protective [108, 129, 1038-1040]."
-Sporotrichosis,Standard,n/a,n/a
-Spirillum minor disease (rat-bite fever),Standard,n/a,Not transmitted from person to person.
-Staphylococcal disease (S. aureus),Contact + Standard,Duration of illness,Until drainage stops or can be contained by dressing.
-"Skin, wound, or burn",,,
-Major,,,
-Staphylococcal disease (S. aureus),Standard,n/a,If dressing covers and contains drainage adequately.
-"Skin, wound, or burn",,,
-Minor or limited,,,
-Staphylococcal disease (S. aureus),Standard,n/a,Use Contact Precautions for diapered or incontinent children for duration of illness.
-Enterocolitis,,,
-Staphylococcal disease (S. aureus),n/a,n/a,n/a
-Multidrug-resistant (see Multidrug-Resistant Organisms),,,
-Staphylococcal disease (S. aureus),Standard,n/a,n/a
-Pneumonia,,,
-Staphylococcal disease (S. aureus),Contact + Standard,Duration of illness,"Consider healthcare personnel as potential source of nursery, NICU outbreak [1095]."
-Scalded skin syndrome,,,
-Staphylococcal disease (S. aureus),Standard,n/a,n/a
-Toxic shock syndrome,,,
-Streptobacillus moniliformis disease (rat-bite fever),Standard,n/a,Not transmitted from person to person.
-Streptococcal disease (group A Streptococcus),Contact + Droplet + Standard,Until 24 hours after initiation of effective therapy,Until drainage stops or can be contained by dressing.
-"Skin, wound, or burn",,,
-Major,,,
-Streptococcal disease (group A Streptococcus),Standard,n/a,If dressing covers and contains drainage.
-"Skin, wound, or burn",,,
-Minor or limited,,,
-Streptococcal disease (group A Streptococcus),Standard,n/a,n/a
-Endometritis (puerperal sepsis),,,
-Streptococcal disease (group A Streptococcus),Droplet + Standard,Until 24 hours after initiation of effective therapy,n/a
-Pharyngitis in infants and young children,,,
-Streptococcal disease (group A Streptococcus),Droplet + Standard,Until 24 hours after initiation of effective therapy,n/a
-Pneumonia,,,
-Streptococcal disease (group A Streptococcus),Droplet + Standard,Until 24 hours after initiation of effective therapy,n/a
-Scarlet fever in infants and young children,,,
-Streptococcal disease (group A Streptococcus),Droplet + Standard,Until 24 hours after initiation of effective therapy,"Outbreaks of serious invasive disease have occurred secondary to transmission among patients and healthcare personnel [162, 972, 1096-1098]."
-Serious invasive disease,,,Contact Precautions for draining wound as above; follow recommendations for antimicrobial prophylaxis in selected conditions [160].
-"Streptococcal disease (group B Streptococcus), neonatal",Standard,n/a,n/a
-Streptococcal disease (not group A or B) unless covered elsewhere,n/a,n/a,n/a
-Multidrug-resistant (see Multidrug-Resistant Organisms),,,
-Strongyloidiasis,Standard,n/a,n/a
-Syphilis,Standard,n/a,n/a
-Latent (tertiary) and seropositivity without lesions,,,
-Syphilis,Standard,n/a,n/a
-"Skin and mucous membrane, including congenital, primary, Secondary",,,
-Tapeworm disease,Standard,n/a,Not transmitted from person to person.
-Hymenolepis nana,,,
-Tapeworm disease,Standard,n/a,n/a
-Taenia solium (pork),,,
-Tapeworm disease,Standard,n/a,n/a
-Other,,,
-Tetanus,Standard,n/a,Not transmitted from person to person.
-"Tinea (e.g., dermatophytosis, dermatomycosis, ringworm)",Standard,n/a,Rare episodes of person-to-person transmission.
-Toxoplasmosis,Standard,n/a,"Transmission from person to person is rare; vertical transmission from mother to child, transmission through organs and blood transfusion rare."
-"Toxic shock syndrome (staphylococcal disease, streptococcal disease)",Standard,n/a,Droplet Precautions for the first 24 hours after implementation of antibiotic therapy if Group A Streptococcus is a likely etiology.
-"Trachoma, acute",Standard,n/a,n/a
-"Transmissible spongiform encephalopathy (see Creutzfeld-Jacob disease, CJD, vCJD)",n/a,n/a,n/a
-Trench mouth (Vincent’s angina),Standard,n/a,n/a
-Trichinosis,Standard,n/a,n/a
-Trichomoniasis,Standard,n/a,n/a
-Trichuriasis (whipworm disease),Standard,n/a,n/a
-Tuberculosis (M. tuberculosis),Airborne + Contact + Standard,n/a,"Discontinue precautions only when patient is improving clinically, and drainage has ceased or there are 3 consecutive negative cultures of continued drainage [1025, 1026]. Examine for evidence of active pulmonary tuberculosis."
-"Extrapulmonary, draining lesion",,,
-Tuberculosis (M. tuberculosis),Standard,n/a,"Examine for evidence of pulmonary tuberculosis. For infants and children, use Airborne until active pulmonary tuberculosis in visiting family members ruled out. [42]"
-"Extrapulmonary, no draining lesion, Meningitis",,,
-Tuberculosis (M. tuberculosis),Airborne + Standard,n/a,"Discontinue precautions only when patient on effective therapy is improving clinically and has 3 consecutive sputum smears negative for acid-fast bacilli collected on separate days (MMWR 2005; 54: RR-17 Guidelines for Preventing the Transmission of Mycobacterium tuberculosis in Health-Care Settings, 2005) (accessed September 2018) [12]."
-"Pulmonary or laryngeal disease, confirmed",,,
-Tuberculosis (M. tuberculosis),Airborne + Standard,n/a,"Discontinue precautions only when the likelihood of infectious TB disease is deemed negligible, and either"
-"Pulmonary or laryngeal disease, suspected",,,"1. there is another diagnosis that explains the clinical syndrome, or"
-,,,2. the results of 3 sputum smears for AFB are negative.
-,,,
-,,,"Each of the 3 sputum specimens should be collected 8 -24 hours apart, and at least 1 should be an early morning specimen."
-Tuberculosis (M. tuberculosis),Standard,n/a,n/a
-Skin-test positive with no evidence of current active disease,,,
-Tularemia,Standard,n/a,Not transmitted from person to person.
-Draining lesion,,,
-Tularemia,Standard,n/a,Not transmitted from person to person.
-Pulmonary,,,
-Typhoid (Salmonella typhi) fever (see Gastroenteritis),n/a,n/a,n/a
-Typhus,Standard,n/a,Transmitted from person to person through close personal or clothing contact.
-Rickettsia prowazekii (Epidemic or Louse-borne Typhus),,,
-Typhus,Standard,n/a,Not transmitted from person to person.
-Rickettsia typhi,,,
-"Urinary tract infection (including pyelonephritis), with or without urinary catheter",Standard,n/a,n/a
-Vaccinia,n/a,n/a,"Only vaccinated HCWs have contact with active vaccination sites and care for persons with adverse vaccinia events; if unvaccinated, only HCWs without contraindications to vaccine may provide care."
-Vaccinia,Standard,n/a,"Vaccination recommended for vaccinators; for newly vaccinated HCWs: semi-permeable dressing over gauze until scab separates, with dressing change as fluid accumulates, ~3-5 days; gloves, hand hygiene for dressing change; vaccinated HCW or HCW without contraindication to vaccine for dressing changes. [205, 221, 225]."
-Vaccination site care (including autoinoculated areas),,,
-Vaccinia (adverse events following vaccination),Contact + Standard,"Until lesions dry and crusted, scabs separated",For contact with virus-containing lesions and exudative material.
-Eczema vaccinatum,,,
-Vaccinia (adverse events following vaccination),Contact + Standard,"Until lesions dry and crusted, scabs separated",For contact with virus-containing lesions and exudative material.
-Fetal vaccinia,,,
-Vaccinia (adverse events following vaccination),Contact + Standard,"Until lesions dry and crusted, scabs separated",For contact with virus-containing lesions and exudative material.
-Generalized vaccinia,,,
-Vaccinia (adverse events following vaccination),Contact + Standard,"Until lesions dry and crusted, scabs separated",For contact with virus-containing lesions and exudative material.
-Progressive vaccinia,,,
-Vaccinia (adverse events following vaccination),Standard,n/a,n/a
-Postvaccinia encephalitis,,,
-Vaccinia (adverse events following vaccination),Contact + Standard,n/a,Use Contact Precautions if there is copious drainage.
-Blepharitis or conjunctivitis,,,
-Vaccinia (adverse events following vaccination),Standard,n/a,n/a
-Iritis or keratitis,,,
-Vaccinia (adverse events following vaccination),Standard,n/a,Not an infectious condition.
-Vaccinia-associated erythema multiforme (Stevens Johnson Syndrome),,,
-Vaccinia  (adverse events following vaccination),Standard + Contact,n/a,"Follow organism-specific (strep, staph most frequent) recommendations and consider magnitude of drainage."
-"Secondary bacterial infection (e.g., S. aureus, group A beta hemolytic Streptococcus)",,,
-Varicella Zoster,Airborne + Contact + Standard,Until lesions dry and crusted,"Susceptible HCWs should not enter room if immune caregivers are available; no recommendation for face protection of immune HCWs; no recommendation for type of protection (i.e., surgical mask or respirator) for susceptible HCWs."
-,,,
-,,,"In immunocompromised host with varicella pneumonia, prolong duration of precautions for duration of illness."
-,,,
-,,,Varicella Post-exposure Prophylaxis Update [April 2019]
-,,,
-,,," Update: Postexposure prophylaxis: provide postexposure vaccine ASAP but within 120 hours; for susceptible exposed persons for whom vaccine is contraindicated (immunocompromised persons, pregnant women, newborns whose mother’s varicella onset is <5 days before delivery or within 48 hours after delivery) provide varicella zoster immune globulin as soon as possible after exposure and within 10 days."
-,,,
-,,,"Use Airborne for exposed susceptible persons and exclude exposed susceptible healthcare workers beginning 8 days after first exposure until 21 days after last exposure or 28 if received varicella zoster immune globulin, regardless of postexposure vaccination. [1036]"
-,,,
-Variola (see Smallpox),n/a,n/a,n/a
-Vibrio parahaemolyticus (see Gastroenteritis),n/a,n/a,n/a
-Vincent’s angina (trench mouth),Standard,n/a,n/a
-"Viral hemorrhagic fevers due to Lassa, Marburg, Ebola, Crimean-Congo Hemorrhagic Fever, and South American Hemorrhagic Fever viruses (i.e., those caused by Junin, Machupo, Chapare, Guanarito and Sabia viruses)",See comments,"Duration of precautions should be determined on a case-by-case basis, in conjunction with local, state, and federal health authorities.",Guidance on Personal Protective Equipment (PPE) in U.S. Healthcare Settings for:
-,,"Factors that should be considered include, but are not limited to, presence of symptoms, date symptoms resolved, other conditions that would require specific precautions (e.g. tuberculosis, Clostridium difficile) and available laboratory information.",Clinically Stable Patients Suspected to have VHF
-,,,Confirmed Patients and Clinically Unstable Patients Suspected to have VHF
-Viral hemorrhagic fevers [September 2024] Update: Precaution recommendations for Viral hemorrhagic fevers have been updated.,,,
-Viral respiratory diseases (not covered elsewhere),Standard,n/a,n/a
-Adults,,,
-Viral respiratory diseases (not covered elsewhere),n/a,n/a,n/a
-"Infants and young children (see Respiratory infectious disease, acute)",,,
-Whooping cough (see Pertussis),n/a,n/a,n/a
-Wound infections,Contact + Standard,Duration of illness,Until drainage stops or can be contained by dressing.
-Major,,,
-Wound infections,Standard,n/a,If dressing covers and contains drainage.
-Minor or limited,,,
-Yersinia enterocolitica Gastroenteritis (see Gastroenteritis),n/a,n/a,n/a
-Zoster (varicella-zoster) (see Herpes Zoster),n/a,n/a,n/a
-"Zygomycosis (phycomycosis, mucormycosis)",Standard,n/a,Not transmitted person-to-person.
+Infection/Condition,Type of Precaution,Duration of Precaution,Precautions/Comments,Table_Number
+"Abscess Draining, major",Contact + Standard,Duration of illness,Until drainage stops or can be contained by dressing.,Table_1
+"Abscess Draining, minor or limited",Standard,n/a,If dressing covers and contains drainage.,Table_1
+Acquired human immunodeficiency syndrome (HIV),Standard,n/a,Postexposure chemoprophylaxis for some blood exposures [866].,Table_1
+Actinomycosis,Standard,n/a,Not transmitted from person to person.,Table_1
+"Adenovirus infection (see agent-specific guidance under Gastroenteritis , Conjunctivitis , Pneumonia )",n/a,n/a,n/a,Table_1
+Amebiasis,Standard,n/a,Person-to-person transmission is rare. Transmission in settings for the mentally challenged and in a family group has been reported [1045]. Use care when handling diapered infants and mentally challenged persons [1046].,Table_1
+Andes virus Andes virus [September 2024] Update: New precaution recommendations for Andes virus.,See comments,"Duration of precautions should be determined on a case-by-case basis, in conjunction with local, state, and federal health authorities. Factors that should be considered include, but are not limited to, presence of symptoms, date symptoms resolved, other conditions that would require specific precautions (e.g. tuberculosis, Clostridium difficile ) and available laboratory information.","Patient Placement: AIIR PPE: Gown , gloves, eye protection, N95® respirator or higher",Table_1
+Anthrax,Standard,n/a,Infected patients do not generally pose a transmission risk.,Table_1
+Anthrax Cutaneous,Standard,n/a,"Transmission through non-intact skin contact with draining lesions possible, therefore use Contact Precautions if large amount of uncontained drainage. Handwashing with soap and water preferable to use of waterless alcohol-based antiseptics since alcohol does not have sporicidal activity [983].",Table_1
+Anthrax Pulmonary,Standard,n/a,Not transmitted from person to person.,Table_1
+Anthrax Environmental: aerosolizable spore-containing powder or other substance,n/a,Until environment completely decontaminated,"Until decontamination of environment complete [203]. Wear respirator (N95 mask or PAPRs), protective clothing; decontaminate persons with powder on them ( Notice to Readers: Occupational Health Guidelines for Remediation Workers at Bacillus anthracis-Contaminated Sites — United States, 2001–2002 accessed September 2018). Hand hygiene: Handwashing for 30-60 seconds with soap and water or 2% chlorhexidine gluconate after spore contact (alcohol handrubs inactive against spores [983].) Postexposure prophylaxis following environmental exposure: 60 days of antimicrobials (either doxycycline, ciprofloxacin, or levofloxacin) and postexposure vaccine under IND.",Table_1
+Antibiotic-associated colitis (see Clostridium difficile ),n/a,n/a,n/a,Table_1
+"Arthropod-borne viral encephalitides (eastern, western, Venezuelan equine encephalomyelitis; St Louis, California encephalitis; West Nile Virus) and viral fevers (dengue, Oropouche, yellow fever, Colorado tick fever)",Standard,n/a,Install screens in windows and doors in endemic areas. Use DEET-containing mosquito repellants and clothing to cover extremities.,Table_1
+Ascariasis,Standard,n/a,Not transmitted from person to person.,Table_1
+Aspergillosis,Standard,n/a,Contact Precautions and Airborne if massive soft tissue infection with copious drainage and repeated irrigations required [154].,Table_1
+"Avian influenza (see influenza, avian below)",n/a,n/a,n/a,Table_1
+Babesiosis,Standard,n/a,"Not transmitted from person to person, except rarely by transfusion.",Table_2
+"Blastomycosis, North American, cutaneous or pulmonary",Standard,n/a,Not transmitted from person to person.,Table_2
+Botulism,Standard,n/a,Not transmitted from person to person.,Table_2
+Bronchiolitis (see Respiratory Infections in infants and young children ),Contact + Standard,Duration of illness,Use mask according to Standard Precautions.,Table_2
+"Brucellosis (undulant, Malta, Mediterranean fever)",Standard,n/a,"Not transmitted from person to person, except rarely via banked spermatozoa and sexual contact [1048, 1049]. Provide antimicrobial prophylaxis following laboratory exposure [1050].",Table_2
+Campylobacter gastroenteritis (see Gastroenteritis ),n/a,n/a,n/a,Table_3
+"Candidiasis, all forms including mucocutaneous",Standard,n/a,n/a,Table_3
+Cat-scratch fever (benign inoculation lymphoreticulosis),Standard,n/a,Not transmitted from person to person.,Table_3
+Cellulitis,Standard,n/a,n/a,Table_3
+Chancroid (soft chancre) ( H. ducreyi ),Standard,n/a,Transmitted sexually from person to person.,Table_3
+Chickenpox (see Varicella ),n/a,n/a,n/a,Table_3
+Chlamydia trachomatis Conjunctivitis,Standard,n/a,n/a,Table_3
+Chlamydia trachomatis Genital (lymphogranuloma venereum),Standard,n/a,n/a,Table_3
+Chlamydia trachomatis Pneumonia (infants ≤3 mos. of age),Standard,n/a,n/a,Table_3
+Chlamydia pneumoniae,Standard,n/a,"Outbreaks in institutionalized populations reported, rarely [1051, 1052].",Table_3
+Cholera (see Gastroenteritis ),n/a,n/a,n/a,Table_3
+Closed-cavity infection Open drain in place; limited or minor drainage,Standard,n/a,Contact Precautions if there is copious uncontained drainage.,Table_3
+Closed-cavity infection No drain or closed drainage system in place,Standard,n/a,n/a,Table_3
+Clostridium botulinum,Standard,n/a,Not transmitted from person to person.,Table_3
+"Clostridium difficile (see Gastroenteritis , C. difficile )",Contact + Standard,Duration of illness,n/a,Table_3
+Clostridium perfringens Food poisoning,Standard,n/a,Not transmitted from person to person.,Table_3
+Clostridium perfringens Gas gangrene,Standard,n/a,Transmission from person to person rare; 1 outbreak in a surgical setting reported [1053]. Use Contact Precautions if wound drainage is extensive.,Table_3
+Coccidioidomycosis (valley fever) Draining lesions,Standard,n/a,"Not transmitted from person to person except under extraordinary circumstances, because the infectious arthroconidial form of Coccidioides immitis is not produced in humans [1054].",Table_3
+Coccidioidomycosis (valley fever) Pneumonia,Standard,n/a,"Not transmitted from person to person except under extraordinary circumstances, (e.g., inhalation of aerosolized tissue phase endospores during necropsy, transplantation of infected lung) because the infectious arthroconidial form of Coccidioides immitis is not produced in humans [1054, 1055].",Table_3
+Colorado tick fever,Standard,n/a,Not transmitted from person to person.,Table_3
+Congenital rubella,Contact + Standard,Until 1 yr of age,Standard Precautions if nasopharyngeal and urine cultures repeatedly negative after 3 mos. of age.,Table_3
+Conjunctivitis Acute bacterial,Standard,n/a,n/a,Table_3
+Conjunctivitis Acute bacterial Chlamydia,Standard,n/a,n/a,Table_3
+Conjunctivitis Acute bacterial Gonococcal,Standard,n/a,n/a,Table_3
+Conjunctivitis Acute viral (acute hemorrhagic),Contact + Standard,Duration of illness,"Adenovirus most common; enterovirus 70 [1056], Coxsackie virus A24 [1057] also associated with community outbreaks. Highly contagious; outbreaks in eye clinics, pediatric and neonatal settings, institutional settings reported. Eye clinics should follow Standard Precautions when handling patients with conjunctivitis. Routine use of infection control measures in the handling of instruments and equipment will prevent the occurrence of outbreaks in this and other settings. [460, 461, 814, 1058-1060].",Table_3
+Corona virus associated with SARS (SARS-CoV) (see Severe Acute Respiratory Syndrome ),n/a,n/a,n/a,Table_3
+Coxsackie virus disease (see enteroviral infection ),n/a,n/a,n/a,Table_3
+"Creutzfeldt-Jakob disease (CJD, vCJD)",Standard,n/a,"Use disposable instruments or special sterilization/disinfection for surfaces, objects contaminated with neural tissue if CJD or vCJD suspected and has not been R/O; No special burial procedures. [1061]",Table_3
+Croup (see Respiratory Infections in infants and young children ),n/a,n/a,n/a,Table_3
+Crimean-Congo Fever (see Viral Hemorrhagic Fever ),,n/a,n/a,Table_3
+Cryptococcosis,Standard,n/a,"Not transmitted from person to person, except rarely via tissue and corneal transplant. [1062, 1063]",Table_3
+Cryptosporidiosis (see Gastroenteritis ),n/a,n/a,n/a,Table_3
+Cysticercosis,Standard,n/a,Not transmitted from person to person.,Table_3
+"Cytomegalovirus infection, including in neonates and immunosuppressed patients",Standard,n/a,No additional precautions for pregnant HCWs.,Table_3
+Decubitus ulcer (see Pressure Ulcer ),n/a,n/a,n/a,Table_4
+Dengue fever,Standard,n/a,Not transmitted from person to person.,Table_4
+"Diarrhea, acute-infective etiology suspected (see Gastroenteritis )",n/a,n/a,n/a,Table_4
+Diphtheria Cutaneous,Contact + Standard,Until off antimicrobial treatment and culture-negative,Until 2 cultures taken 24 hours apart negative.,Table_4
+Diphtheria Pharyngeal,Droplet + Standard,Until off antimicrobial treatment and culture-negative,Until 2 cultures taken 24 hours apart negative.,Table_4
+Ebola virus (see Viral Hemorrhagic Fevers ),n/a,n/a,,Table_5
+Echinococcosis (hydatidosis),Standard,n/a,Not transmitted from person to person.,Table_5
+Echovirus (see Enteroviral Infection ),n/a,n/a,n/a,Table_5
+Encephalitis or encephalomyelitis (see specific etiologic agents),n/a,n/a,n/a,Table_5
+Endometritis (endomyometritis),Standard,n/a,n/a,Table_5
+"Enterobiasis (pinworm disease, oxyuriasis)",Standard,n/a,n/a,Table_5
+Enterococcus species (see Multidrug-Resistant Organisms if epidemiologically significant or vancomycin-resistant),n/a,n/a,n/a,Table_5
+"Enterocolitis, C. difficile (see Gastroenteritis, C. difficile )",n/a,n/a,n/a,Table_5
+"Enteroviral infections (i.e., Group A and B Coxsackie viruses and Echo viruses) (excludes polio virus)",Standard,n/a,Use Contact Precautions for diapered or incontinent children for duration of illness and to control institutional outbreaks.,Table_5
+"Epiglottitis, due to Haemophilus influenzae type b",Droplet + Standard,Until 24 hours after initiation of effective therapy,See specific disease agents for epiglottitis due to other etiologies.,Table_5
+"Epstein-Barr virus infection, including infectious mononucleosis",Standard,n/a,n/a,Table_5
+Erythema infectiosum (also see Parvovirus B19 ),n/a,n/a,n/a,Table_5
+Escherichia coli gastroenteritis (see Gastroenteritis ),n/a,n/a,n/a,Table_5
+Food poisoning Botulism,Standard,n/a,Not transmitted from person to person.,Table_6
+Food poisoning C. perfringens or welchii,Standard,n/a,Not transmitted from person to person.,Table_6
+Food poisoning Staphylococcal,Standard,n/a,Not transmitted from person to person.,Table_6
+"Furunculosis, staphylococcal",Standard,n/a,Contact if drainage not controlled. Follow institutional policies if MRSA.,Table_6
+"Furunculosis, staphylococcal Infants and young children",Contact + Standard,"Duration of illness (with wound lesions, until wounds stop draining)",n/a,Table_6
+Gangrene (gas gangrene),Standard,n/a,Not transmitted from person to person.,Table_7
+Gastroenteritis,Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks for gastroenteritis caused by all of the agents below.,Table_7
+Gastroenteritis Adenovirus,Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks.,Table_7
+Gastroenteritis Campylobacter species,Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks.,Table_7
+Gastroenteritis Cholera ( Vibrio cholerae ),Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks.,Table_7
+Gastroenteritis C. difficile,Contact + Standard,Duration of illness,"Discontinue antibiotics if appropriate. Do not share electronic thermometers; [853, 854] ensure consistent environmental cleaning and disinfection. Hypochlorite solutions may be required for cleaning if transmission continues [847]. Handwashing with soap and water preferred because of the absence of sporicidal activity of alcohol in waterless antiseptic handrubs [983].",Table_7
+Gastroenteritis Cryptosporidium species,Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks.,Table_7
+Gastroenteritis E. coli Enteropathogenic O157:H7 and other Shiga toxin-producing strains,Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks.,Table_7
+Gastroenteritis E. coli Other species,Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks.,Table_7
+Gastroenteritis Giardia lamblia,Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks.,Table_7
+Gastroenteritis Noroviruses,Update: Contact + Standard,n/a,"Use Contact Precautions for a minimum of 48 hours after the resolution of symptoms or to control institutional outbreaks. Persons who clean areas heavily contaminated with feces or vomitus may benefit from wearing masks since virus can be aerosolized from these body substances [142, 147 148]; ensure consistent environmental cleaning and disinfection with focus on restrooms even when apparently unsoiled [273, 1064]. Hypochlorite solutions may be required when there is continued transmission [290-292]. Alcohol is less active, but there is no evidence that alcohol antiseptic handrubs are not effective for hand decontamination [294]. Cohorting of affected patients to separate airspaces and toilet facilities may help interrupt transmission during outbreaks. Gastroenteritis, Noroviruses Precaution Update [April 2019] Update: The Type of Precaution was updated from “Standard” to “Contact + Standard” to align with Guideline for the Prevention and Control of Norovirus Gastroenteritis Outbreaks in Healthcare Settings (2011) .",Table_7
+Gastroenteritis Rotavirus,Contact + Standard,Duration of illness,"Ensure consistent environmental cleaning and disinfection and frequent removal of soiled diapers. Prolonged shedding may occur in both immunocompetent and immunocompromised children and the elderly [932, 933].",Table_7
+Gastroenteritis Salmonella species (including S. typhi ),Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks.,Table_7
+Gastroenteritis Shigella species (Bacillary dysentery),Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks.,Table_7
+Gastroenteritis Vibrio parahaemolyticus,Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks.,Table_7
+Gastroenteritis Viral (if not covered elsewhere),Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks.,Table_7
+Gastroenteritis Yersinia enterocolitica,Standard,n/a,Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks.,Table_7
+German measles (see Rubella ; see Congenital Rubella ),n/a,n/a,n/a,Table_7
+Giardiasis (see Gastroenteritis ),n/a,n/a,n/a,Table_7
+"Gonococcal ophthalmia neonatorum (gonorrheal ophthalmia, acute conjunctivitis of newborn)",Standard,n/a,n/a,Table_7
+Gonorrhea,Standard,n/a,n/a,Table_7
+"Granuloma inguinale (Donovanosis, granuloma venereum)",Standard,n/a,n/a,Table_7
+Guillain-Barré syndrome,Standard,n/a,Not an infectious condition.,Table_7
+Haemophilus influenzae (see disease-specific recommendations),n/a,n/a,n/a,Table_8
+"Hand, foot, and mouth disease (see Enteroviral Infection )",n/a,n/a,n/a,Table_8
+Hansen’s Disease (see Leprosy ),n/a,n/a,n/a,Table_8
+Hantavirus pulmonary syndrome,Standard,n/a,Not transmitted from person to person.,Table_8
+Helicobacter pylori,Standard,n/a,n/a,Table_8
+"Hepatitis, viral Type A",Standard,n/a,Provide hepatitis A vaccine postexposure as recommended. [1065],Table_8
+"Hepatitis, viral Type A-Diapered or incontinent patients",Contact + Standard,n/a,"Maintain Contact Precautions in infants and children <3 years of age for duration of hospitalization; for children 3-14 yrs. of age for 2 weeks after onset of symptoms; >14 yrs. of age for 1 week after onset of symptoms [833, 1066, 1067].",Table_8
+"Hepatitis, viral Type B-HBsAg positive; acute or chronic",Standard,n/a,See specific recommendations for care of patients in hemodialysis centers. [778],Table_8
+"Hepatitis, viral Type C and other unspecified non-A, non-B",Standard,n/a,See specific recommendations for care of patients in hemodialysis centers. [778],Table_8
+"Hepatitis, viral Type D (seen only with hepatitis B)",Standard,n/a,n/a,Table_8
+"Hepatitis, viral Type E",Standard,n/a,Use Contact Precautions for diapered or incontinent individuals for the duration of illness. [1068],Table_8
+"Hepatitis, viral Type G",Standard,n/a,n/a,Table_8
+Herpangina (see Enteroviral Infection ),n/a,n/a,n/a,Table_8
+Hookworm,Standard,n/a,n/a,Table_8
+Herpes simplex ( Herpesvirus hominis ) Encephalitis,Standard,n/a,n/a,Table_8
+"Herpes simplex (Herpesvirus hominis) Mucocutaneous, disseminated or primary, severe",Contact + Standard,Until lesions dry and crusted,n/a,Table_8
+"Herpes simplex (Herpesvirus hominis) Mucocutaneous, recurrent (skin, oral, genital)",Standard,n/a,n/a,Table_8
+Herpes simplex (Herpesvirus hominis) Neonatal,Contact + Standard,Until lesions dry and crusted,"Also, for asymptomatic, exposed infants delivered vaginally or by C-section and if mother has active infection and membranes have been ruptured for more than 4 to 6 hours until infant surface cultures obtained at 24-36 hours of age negative after 48 hours incubation. [1069, 1070]",Table_8
+Herpes zoster (varicella-zoster) (shingles) Disseminated disease in any patient Localized disease in immunocompromised patient until disseminated infection ruled out,Airborne + Contact + Standard,Duration of illness,Susceptible HCWs should not enter room if immune caregivers are available; no recommendation for protection of immune HCWs; no recommendation for type of protection (i.e. surgical mask or respirator) for susceptible HCWs.,Table_8
+Herpes zoster (varicella-zoster) (shingles) Localized in patient with intact immune system with lesions that can be contained/covered,Standard,Until lesions dry and crusted,Susceptible HCWs should not provide direct patient care when other immune caregivers are available.,Table_8
+Histoplasmosis,Standard,n/a,Not transmitted from person to person.,Table_8
+Human immunodeficiency virus (HIV),Standard,n/a,Postexposure chemoprophylaxis for some blood exposures [866].,Table_8
+Human metapneumovirus,Contact + Standard,Duration of illness,"HAI reported [1071], but route of transmission not established [823]. Assumed to be Contact transmission as for RSV since the viruses are closely related and have similar clinical manifestations and epidemiology. Wear masks according to Standard Precautions.",Table_8
+Impetigo,Contact + Standard,Until 24 hours after initiation of effective therapy,n/a,Table_9
+Infectious mononucleosis,Standard,n/a,n/a,Table_9
+Influenza Human (seasonal influenza),n/a,n/a,See Prevention Strategies for Seasonal Influenza in Healthcare Settings (accessed September 2018). [Current version of this document may differ from original.] for current seasonal influenza guidance.,Table_9
+"Influenza Avian (e.g., H5N1, H7, H9 strains)",n/a,n/a,"See [This link is no longer active: www.cdc.gov/flu/avian/professional/infect-control.htm. Similar information may be found at Interim Guidance for Infection Control Within Healthcare Settings When Caring for Confirmed Cases, Probable Cases, and Cases Under Investigation for Infection with Novel Influenza A Viruses Associated with Severe Disease (accessed September 2018).] for current avian influenza guidance.",Table_9
+Influenza Pandemic Influenza (also a human influenza virus),Droplet + Standard,n/a,"See [This link is no longer active: http://www.pandemicflu.gov. Similar information may be found at Interim Guidance for Infection Control Within Healthcare Settings When Caring for Confirmed Cases, Probable Cases, and Cases Under Investigation for Infection with Novel Influenza A Viruses Associated with Severe Disease (accessed September 2018).] for current pandemic influenza guidance.",Table_9
+Kawasaki syndrome,Standard,n/a,Not an infectious condition.,Table_10
+Lassa fever (see Viral Hemorrhagic Fevers ),n/a,n/a,n/a,Table_11
+Legionnaires’ disease,Standard,n/a,Not transmitted from person to person.,Table_11
+Leprosy,Standard,n/a,n/a,Table_11
+Leptospirosis,Standard,n/a,Not transmitted from person to person.,Table_11
+Lice Head (pediculosis),Contact + Standard,Until 24 hours after initiation of effective therapy,See [This link is no longer active: https://www.cdc.gov/ncidod/dpd/parasites/lice/default.htm. Similar information may be found at CDC’s Parasites – Lice (accessed September 2018).],Table_11
+Lice Body,Standard,n/a,Transmitted person-to-person through infested clothing. Wear gown and gloves when removing clothing; bag and wash clothes according to CDC guidance Parasites – Lice (accessed September 2018).,Table_11
+Lice Pubic,Standard,n/a,Transmitted person-to-person through sexual contact. See CDC’s Parasites – Lice (accessed September 2018).,Table_11
+Listeriosis (listeria monocytogenes),Standard,n/a,Person-to-person transmission rare; cross-transmission in neonatal settings reported. [1072-1075],Table_11
+Lyme disease,Standard,n/a,Not transmitted from person to person.,Table_11
+Lymphocytic choriomeningitis,Standard,n/a,Not transmitted from person to person.,Table_11
+Lymphogranuloma venereum,Standard,n/a,n/a,Table_11
+Malaria,Standard,n/a,"Not transmitted from person to person, except through transfusion rarely and through a failure to follow Standard Precautions during patient care. [1076-1079] Install screens in windows and doors in endemic areas. Use DEET- containing mosquito repellants and clothing to cover extremities.",Table_12
+Marburg virus disease (see Viral Hemorrhagic Fevers ),n/a,n/a,n/a,Table_12
+Measles (rubeola),Airborne + Standard,4 days after onset of rash; duration of illness in immune compromised,"Interim Measles Infection Control [July 2019] See Interim Infection Prevention and Control Recommendations for Measles in Healthcare Settings Susceptible healthcare personnel (HCP) should not enter room if immune care providers are available; regardless of presumptive evidence of immunity, HCP should use respiratory protection that is at least as protective as a fit-tested, NIOSH-certified N95 respirator upon entry into the patient’s room or care area. For exposed susceptibles, postexposure vaccine within 72 hours or immune globulin within 6 days when available [17, 1032, 1034]. Place exposed susceptible patients on Airborne Precautions and exclude susceptible healthcare personnel.",Table_12
+"Melioidosis, all forms",Standard,n/a,Not transmitted from person to person.,Table_12
+Meningitis Aseptic (nonbacterial or viral; also see Enteroviral infections ),Standard,n/a,Contact for infants and young children.,Table_12
+"Meningitis Bacterial, gram-negative enteric, in neonates",Standard,n/a,n/a,Table_12
+Meningitis Fungal,Standard,n/a,n/a,Table_12
+"Meningitis Haemophilus Influenzae , type b known or suspected",Droplet + Standard,Until 24 hours after initiation of effective therapy,n/a,Table_12
+Meningitis Listeria monocytogenes (See Listeriosis ),Standard,n/a,n/a,Table_12
+Meningitis Neisseria meningitidis (meningococcal) known or suspected,Droplet + Standard,Until 24 hours after initiation of effective therapy,See Meningococcal Disease below.,Table_12
+Meningitis Streptococcus pneumoniae,Standard,n/a,n/a,Table_12
+Meningitis M. tuberculosis,Standard,n/a,"Concurrent, active pulmonary disease or draining cutaneous lesions may necessitate addition of Contact and/or Airborne. For children, Airborne Precautions until active tuberculosis ruled out in visiting family members (see Tuberculosis below). [42]",Table_12
+Meningitis Other diagnosed bacterial,Standard,n/a,n/a,Table_12
+"Meningococcal disease: sepsis, pneumonia, Meningitis",Droplet + Standard,Until 24 hours after initiation of effective therapy,"Postexposure chemoprophylaxis for household contacts, HCWs exposed to respiratory secretions; postexposure vaccine only to control outbreaks. [15, 17]",Table_12
+Molluscum contagiosum,Standard,n/a,n/a,Table_12
+Monkeypox,,,See CDC’s Monkeypox website (accessed May 2022) for information on infection prevention and control.,Table_12
+Mucormycosis,Standard,n/a,n/a,Table_12
+"Multidrug-resistant organisms (MDROs), infection or colonization (e.g., MRSA, VRE, VISA/VRSA, ESBLs, resistant S. pneumoniae )",Contact + Standard,n/a,"MDROs judged by the infection control program, based on local, state, regional, or national recommendations, to be of clinical and epidemiologic significance. Contact Precautions recommended in settings with evidence of ongoing transmission, acute care settings with increased risk for transmission or wounds that cannot be contained by dressings. See recommendations for management options in Management of Multidrug-Resistant Organisms In Healthcare Settings, 2006 [870]. Contact state health department for guidance regarding new or emerging MDRO.",Table_12
+Mumps (infectious parotitis),Droplet + Standard,Until 5 days after the onset of swelling,Mumps [October 2017] Update: The Healthcare Infection Control Practices Advisory Committee (HICPAC) voted to change the recommendation of isolation for persons with mumps from 9 days to 5 days based on this 2008 MMWR report Updated Recommendations for Isolation of Persons with Mumps (accessed September 2018). After onset of swelling; susceptible HCWs should not provide care if immune caregivers are available. The below note has been superseded by the above recommendation update Note: (Recent assessment of outbreaks in healthy 18-24 year olds has indicated that salivary viral shedding occurred early in the course of illness and that 5 days of isolation after onset of parotitis may be appropriate in community settings; however the implications for healthcare personnel and high-risk patient populations remain to be clarified.),Table_12
+"Mycobacteria, nontuberculosis (atypical)",n/a,Not transmitted person-to-person.,n/a,Table_12
+"Mycobacteria, nontuberculosis (atypical)",Pulmonary,Standard,n/a,Table_12
+"Mycobacteria, nontuberculosis (atypical)",Wound,Standard,n/a,Table_12
+Mycoplasma pneumonia,Droplet + Standard,Duration of Illness,n/a,Table_12
+Necrotizing enterocolitis,Standard,n/a,Contact Precautions when cases clustered temporally [1080-1083].,Table_13
+Nipah virus Nipah virus [September 2024] Update: New precaution recommendations for Nipah virus.,See comments,"Duration of precautions should be determined on a case-by-case basis, in conjunction with local, state, and federal health authorities. Factors that should be considered include, but are not limited to, presence of symptoms, date symptoms resolved, other conditions that would require specific precautions (e.g. tuberculosis, Clostridium difficile ) and available laboratory information.","Patient Placement: AIIR PPE: If suspect Nipah case and clinically stable: gown , gloves, eye protection, N95® respirator or higher If suspect Nipah and clinically unstable (e.g. hemodynamic instability, vomiting) OR confirmed Nipah case regardless of clinical stability: use PPE according to guidance for confirmed patients and clinically unstable patients suspected to have VHF",Table_13
+"Nocardiosis, draining lesions, or other presentations",Standard,n/a,Not transmitted person-to-person.,Table_13
+Norovirus (see Gastroenteritis ),n/a,n/a,n/a,Table_13
+Norwalk agent Gastroenteritis (see Gastroenteritis ),n/a,n/a,n/a,Table_13
+Orf,Standard,n/a,n/a,Table_14
+"Parainfluenza virus infection, respiratory in infants and young children",Contact + Standard,Duration of illness,"Viral shedding may be prolonged in immunosuppressed patients [1009, 1010]. Reliability of antigen testing to determine when to remove patients with prolonged hospitalizations from Contact Precautions uncertain.",Table_15
+Parvovirus B19 (Erythema infectiosum),Droplet + Standard,n/a,"Maintain precautions for duration of hospitalization when chronic disease occurs in an immunocompromised patient. For patients with transient aplastic crisis or red-cell crisis, maintain precautions for 7 days. Duration of precautions for immunosuppressed patients with persistently positive PCR not defined, but transmission has occurred [929].",Table_15
+Pediculosis (lice),Contact + Standard,Until 24 hours after initiation of effective therapy after treatment,n/a,Table_15
+Pertussis (whooping cough),Droplet + Standard,Until 5 days after initiation of effective antibiotic therapy,Single patient room preferred. Cohorting an option. Postexposure chemoprophylaxis for household contacts and HCWs with prolonged exposure to respiratory secretions [863]. Recommendations for Tdap vaccine in adults under development. Tdap Vaccine Recommendations [2018] Update: Current recommendations can be found at Tdap / Td ACIP Vaccine Recommendations (accessed September 2018).,Table_15
+Pinworm infection (Enterobiasis),Standard,n/a,n/a,Table_15
+Plague ( Yersinia pestis ) Bubonic,Standard,n/a,n/a,Table_15
+Plague ( Yersinia pestis ) Pneumonic,Droplet + Standard,Until 48 hours after initiation of effective antibiotic therapy,Antimicrobial prophylaxis for exposed HCW [207].,Table_15
+Pneumonia Adenovirus,Droplet + Contact + Standard,Duration of illness,"Outbreaks in pediatric and institutional settings reported [376, 1084-1086]. In immunocompromised hosts, extend duration of Droplet and Contact Precautions due to prolonged shedding of virus. [931]",Table_15
+Pneumonia Bacterial not listed elsewhere (including gram-negative bacterial),Standard,n/a,n/a,Table_15
+"Pneumonia B. cepacia in patients with CF, including respiratory tract colonization",Contact + Standard,Unknown,Avoid exposure to other persons with CF; private room preferred. Criteria for D/C precautions not established. See CF Foundation guideline. [20],Table_15
+Pneumonia B. cepacia in patients without CF (see Multidrug-Resistant Organisms ),n/a,n/a,n/a,Table_15
+Pneumonia Chlamydia,Standard,n/a,n/a,Table_15
+Pneumonia Fungal,Standard,n/a,n/a,Table_15
+"Pneumonia Haemophilus influenzae , type b Adults",Standard,n/a,n/a,Table_15
+"Pneumonia Haemophilus influenzae , type b Infants and children",Droplet + Standard,Until 24 hours after initiation of effective therapy,n/a,Table_15
+Pneumonia Legionella spp.,Standard,n/a,n/a,Table_15
+Pneumonia . Meningococcal,Droplet + Standard,Until 24 hours after initiation of effective therapy,See Meningococcal Disease above.,Table_15
+Pneumonia Multidrug-resistant bacterial (see Multidrug-Resistant Organisms ),n/a,n/a,n/a,Table_15
+Pneumonia Mycoplasma (primary atypical Pneumonia),Droplet + Standard,Duration of illness,n/a,Table_15
+Pneumonia Pneumococcal pneumonia,Standard,n/a,"Use Droplet Precautions if evidence of transmission within a patient care unit or facility. [196-198, 1087]",Table_15
+Pneumonia Pneumocystis jiroveci ( Pneumocystis carinii ),Standard,n/a,Avoid placement in the same room with an immunocompromised patient.,Table_15
+Pneumonia Staphylococcus aureus,Standard,n/a,"For MRSA, see MDROs .",Table_15
+"Pneumonia Streptococcus , group A Adults",Droplet + Standard,Until 24 hours after initiation of effective therapy,See Streptococcal Disease (group A Streptococcus ) below Contact Precautions if skin lesions present.,Table_15
+"Pneumonia Streptococcus , group A Infants and young children",Droplet + Standard,Until 24 hours after initiation of effective therapy,Contact Precautions if skin lesions present.,Table_15
+Pneumonia Varicella-Zoster (See Varicella-Zoster ),n/a,n/a,n/a,Table_15
+Pneumonia Viral Adults,Standard,n/a,n/a,Table_15
+"Pneumonia Viral Infants and young children (see Respiratory Infectious Disease, acute , or specific viral agent)",n/a,n/a,n/a,Table_15
+Poliomyelitis,Contact + Standard,Duration of illness,n/a,Table_15
+"Pressure ulcer (decubitus ulcer, pressure sore) infected Major",Contact + Standard,Duration of illness,Until drainage stops or can be contained by dressing.,Table_15
+"Pressure ulcer (decubitus ulcer, pressure sore) infected Minor or limited",Standard,n/a,If dressing covers and contains drainage.,Table_15
+Prion disease (See Creutzfeld-Jacob Disease ),n/a,n/a,n/a,Table_15
+Psittacosis (ornithosis) ( Chlamydia psittaci ),Standard,n/a,Not transmitted from person to person.,Table_15
+Q fever,Standard,n/a,n/a,Table_16
+Rabies,Standard,n/a,"Person to person transmission rare; transmission via corneal, tissue and organ transplants has been reported [539, 1088]. If patient has bitten another individual or saliva has contaminated an open wound or mucous membrane, wash exposed area thoroughly and administer postexposure prophylaxis. [1089]",Table_17
+"Rat-bite fever ( Streptobacillus moniliformis disease, Spirillum minus disease)",Standard,n/a,Not transmitted from person to person.,Table_17
+Relapsing fever,Standard,n/a,Not transmitted from person to person.,Table_17
+Resistant bacterial infection or colonization (see Multidrug-Resistant Organisms ),n/a,n/a,n/a,Table_17
+"Respiratory infectious disease, acute (if not covered elsewhere) Adults",Standard,n/a,n/a,Table_17
+"Respiratory infectious disease, acute (if not covered elsewhere) Infants and young children",Contact + Standard,Duration of illness,Also see syndromes or conditions listed in Table 2.,Table_17
+"Respiratory syncytial virus infection, in infants, young children and immunocompromised adults",Contact + Standard,Duration of illness,"Wear mask according to Standard Precautions [24] CB [116, 117]. In immunocompromised patients, extend the duration of Contact Precautions due to prolonged shedding [928]. Reliability of antigen testing to determine when to remove patients with prolonged hospitalizations from Contact Precautions uncertain.",Table_17
+Reye’s syndrome,Standard,n/a,Not an infectious condition.,Table_17
+Rheumatic fever,Standard,n/a,Not an infectious condition.,Table_17
+Rhinovirus,Droplet + Standard,Duration of illness,"Droplet most important route of transmission [104 1090]. Outbreaks have occurred in NICUs and LTCFs [413, 1091, 1092]. Add Contact Precautions if copious moist secretions and close contact likely to occur (e.g., young infants) [111, 833].",Table_17
+"Rickettsial fevers, tickborne (Rocky Mountain spotted fever, tickborne Typhus fever)",Standard,n/a,"Not transmitted from person to person except through transfusion, rarely.",Table_17
+Rickettsialpox (vesicular rickettsiosis),Standard,n/a,Not transmitted from person to person.,Table_17
+"Ringworm (dermatophytosis, dermatomycosis, tinea)",Standard,n/a,"Rarely, outbreaks have occurred in healthcare settings, (e.g., NICU [1093], rehabilitation hospital [1094]. Use Contact Precautions for outbreak.",Table_17
+Rocky Mountain spotted fever,Standard,n/a,"Not transmitted from person to person except through transfusion, rarely.",Table_17
+Roseola infantum (exanthem subitum; caused by HHV-6),Standard,n/a,n/a,Table_17
+Rotavirus infection (see Gastroenteritis ),n/a,n/a,n/a,Table_17
+Rubella (German measles) (also see Congenital Rubella ),Droplet + Standard,Until 7 days after onset of rash,"Susceptible HCWs should not enter room if immune caregivers are available. No recommendation for wearing face protection (e.g., a surgical mask) if immune. Pregnant women who are not immune should not care for these patients [17, 33]. Administer vaccine within 3 days of exposure to non-pregnant susceptible individuals. Place exposed susceptible patients on Droplet Precautions; exclude susceptible healthcare personnel from duty from day 5 after first exposure to day 21 after last exposure, regardless of postexposure vaccine.",Table_17
+Rubeola (see Measles ),n/a,n/a,n/a,Table_17
+Salmonellosis (see Gastroenteritis ),n/a,n/a,n/a,Table_18
+Scabies,Contact + Standard,Until 24 hours after initiation of effective therapy,n/a,Table_18
+"Scalded skin syndrome, staphylococcal",Contact + Standard,Duration of illness,"See Staphylococcal Disease, scalded skin syndrome below.",Table_18
+Schistosomiasis (bilharziasis),Standard,n/a,n/a,Table_18
+Severe acute respiratory syndrome (SARS),Airborne + Droplet + Contact + Standard,"Duration of illness plus 10 days after resolution of fever, provided respiratory symptoms are absent or improving","Airborne preferred; Droplet if AIIR unavailable. N95 or higher respiratory protection; surgical mask if N95 unavailable; eye protection (goggles, face shield); aerosol-generating procedures and “supershedders” highest risk for transmission via small droplet nuclei and large droplets [93, 94, 96]. Vigilant environmental disinfection (see [This link is no longer active: www.cdc.gov/ncidod/sars. Similar information may be found at CDC Severe Acute Respiratory Syndrome (SARS) (accessed September 2018).])",Table_18
+Shigellosis (see Gastroenteritis ),n/a,n/a,n/a,Table_18
+Smallpox (variola; see Vaccinia for management of vaccinated persons),Airborne + Contact + Standard,Duration of illness,"Until all scabs have crusted and separated (3-4 weeks). Non-vaccinated HCWs should not provide care when immune HCWs are available; N95 or higher respiratory protection for susceptible and successfully vaccinated individuals; postexposure vaccine within 4 days of exposure protective [108, 129, 1038-1040].",Table_18
+Sporotrichosis,Standard,n/a,n/a,Table_18
+Spirillum minor disease (rat-bite fever),Standard,n/a,Not transmitted from person to person.,Table_18
+"Staphylococcal disease ( S. aureus ) Skin, wound, or burn Major",Contact + Standard,Duration of illness,Until drainage stops or can be contained by dressing.,Table_18
+"Staphylococcal disease ( S. aureus ) Skin, wound, or burn Minor or limited",Standard,n/a,If dressing covers and contains drainage adequately.,Table_18
+Staphylococcal disease ( S. aureus ) Enterocolitis,Standard,n/a,Use Contact Precautions for diapered or incontinent children for duration of illness.,Table_18
+Staphylococcal disease ( S. aureus ) Multidrug-resistant (see Multidrug-Resistant Organisms ),n/a,n/a,n/a,Table_18
+Staphylococcal disease ( S. aureus ) Pneumonia,Standard,n/a,n/a,Table_18
+Staphylococcal disease ( S. aureus ) Scalded skin syndrome,Contact + Standard,Duration of illness,"Consider healthcare personnel as potential source of nursery, NICU outbreak [1095].",Table_18
+Staphylococcal disease ( S. aureus ) Toxic shock syndrome,Standard,n/a,n/a,Table_18
+Streptobacillus moniliformis disease (rat-bite fever),Standard,n/a,Not transmitted from person to person.,Table_18
+"Streptococcal disease (group A Streptococcus ) Skin, wound, or burn Major",Contact + Droplet + Standard,Until 24 hours after initiation of effective therapy,Until drainage stops or can be contained by dressing.,Table_18
+"Streptococcal disease (group A Streptococcus ) Skin, wound, or burn Minor or limited",Standard,n/a,If dressing covers and contains drainage.,Table_18
+Streptococcal disease (group A Streptococcus ) Endometritis (puerperal sepsis),Standard,n/a,n/a,Table_18
+Streptococcal disease (group A Streptococcus ) Pharyngitis in infants and young children,Droplet + Standard,Until 24 hours after initiation of effective therapy,n/a,Table_18
+Streptococcal disease (group A Streptococcus ) Pneumonia,Droplet + Standard,Until 24 hours after initiation of effective therapy,n/a,Table_18
+Streptococcal disease (group A Streptococcus ) Scarlet fever in infants and young children,Droplet + Standard,Until 24 hours after initiation of effective therapy,n/a,Table_18
+Streptococcal disease (group A Streptococcus ) Serious invasive disease,Droplet + Standard,Until 24 hours after initiation of effective therapy,"Outbreaks of serious invasive disease have occurred secondary to transmission among patients and healthcare personnel [162, 972, 1096-1098]. Contact Precautions for draining wound as above; follow recommendations for antimicrobial prophylaxis in selected conditions [160].",Table_18
+"Streptococcal disease (group B Streptococcus ), neonatal",Standard,n/a,n/a,Table_18
+Streptococcal disease (not group A or B) unless covered elsewhere Multidrug-resistant (see Multidrug-Resistant Organisms ),n/a,n/a,n/a,Table_18
+Strongyloidiasis,Standard,n/a,n/a,Table_18
+Syphilis Latent (tertiary) and seropositivity without lesions,Standard,n/a,n/a,Table_18
+"Syphilis Skin and mucous membrane, including congenital, primary, Secondary",Standard,n/a,n/a,Table_18
+Tapeworm disease Hymenolepis nana,Standard,n/a,Not transmitted from person to person.,Table_19
+Tapeworm disease Taenia solium (pork),Standard,n/a,n/a,Table_19
+Tapeworm disease Other,Standard,n/a,n/a,Table_19
+Tetanus,Standard,n/a,Not transmitted from person to person.,Table_19
+"Tinea (e.g., dermatophytosis, dermatomycosis, ringworm)",Standard,n/a,Rare episodes of person-to-person transmission.,Table_19
+Toxoplasmosis,Standard,n/a,"Transmission from person to person is rare; vertical transmission from mother to child, transmission through organs and blood transfusion rare.",Table_19
+"Toxic shock syndrome (staphylococcal disease, streptococcal disease)",Standard,n/a,Droplet Precautions for the first 24 hours after implementation of antibiotic therapy if Group A Streptococcus is a likely etiology.,Table_19
+"Trachoma, acute",Standard,n/a,n/a,Table_19
+"Transmissible spongiform encephalopathy (see Creutzfeld-Jacob disease, CJD, vCJD )",n/a,n/a,n/a,Table_19
+Trench mouth (Vincent’s angina),Standard,n/a,n/a,Table_19
+Trichinosis,Standard,n/a,n/a,Table_19
+Trichomoniasis,Standard,n/a,n/a,Table_19
+Trichuriasis (whipworm disease),Standard,n/a,n/a,Table_19
+"Tuberculosis ( M. tuberculosis ) Extrapulmonary, draining lesion",Airborne + Contact + Standard,n/a,"Discontinue precautions only when patient is improving clinically, and drainage has ceased or there are 3 consecutive negative cultures of continued drainage [1025, 1026]. Examine for evidence of active pulmonary tuberculosis.",Table_19
+"Tuberculosis ( M. tuberculosis ) Extrapulmonary, no draining lesion, Meningitis",Standard,n/a,"Examine for evidence of pulmonary tuberculosis. For infants and children, use Airborne until active pulmonary tuberculosis in visiting family members ruled out. [42]",Table_19
+"Tuberculosis ( M. tuberculosis ) Pulmonary or laryngeal disease, confirmed",Airborne + Standard,n/a,"Discontinue precautions only when patient on effective therapy is improving clinically and has 3 consecutive sputum smears negative for acid-fast bacilli collected on separate days ( MMWR 2005; 54: RR-17 Guidelines for Preventing the Transmission of Mycobacterium tuberculosis in Health-Care Settings, 2005 ) (accessed September 2018) [12].",Table_19
+"Tuberculosis ( M. tuberculosis ) Pulmonary or laryngeal disease, suspected",Airborne + Standard,n/a,"Discontinue precautions only when the likelihood of infectious TB disease is deemed negligible, and either there is another diagnosis that explains the clinical syndrome, or the results of 3 sputum smears for AFB are negative. Each of the 3 sputum specimens should be collected 8 -24 hours apart, and at least 1 should be an early morning specimen.",Table_19
+Tuberculosis ( M. tuberculosis ) Skin-test positive with no evidence of current active disease,Standard,n/a,n/a,Table_19
+Tularemia Draining lesion,Standard,n/a,Not transmitted from person to person.,Table_19
+Tularemia Pulmonary,Standard,n/a,Not transmitted from person to person.,Table_19
+Typhoid ( Salmonella typhi ) fever (see Gastroenteritis ),n/a,n/a,n/a,Table_19
+Typhus Rickettsia prowazekii (Epidemic or Louse-borne Typhus),Standard,n/a,Transmitted from person to person through close personal or clothing contact.,Table_19
+Typhus Rickettsia typhi,Standard,n/a,Not transmitted from person to person.,Table_19
+"Urinary tract infection (including pyelonephritis), with or without urinary catheter",Standard,n/a,n/a,Table_20
+Vaccinia,n/a,n/a,"Only vaccinated HCWs have contact with active vaccination sites and care for persons with adverse vaccinia events; if unvaccinated, only HCWs without contraindications to vaccine may provide care.",Table_21
+Vaccinia Vaccination site care (including autoinoculated areas),Standard,n/a,"Vaccination recommended for vaccinators; for newly vaccinated HCWs: semi-permeable dressing over gauze until scab separates, with dressing change as fluid accumulates, ~3-5 days; gloves, hand hygiene for dressing change; vaccinated HCW or HCW without contraindication to vaccine for dressing changes. [205, 221, 225].",Table_21
+Vaccinia (adverse events following vaccination) Eczema vaccinatum,Contact + Standard,"Until lesions dry and crusted, scabs separated",For contact with virus-containing lesions and exudative material.,Table_21
+Vaccinia (adverse events following vaccination) Fetal vaccinia,Contact + Standard,"Until lesions dry and crusted, scabs separated",For contact with virus-containing lesions and exudative material.,Table_21
+Vaccinia (adverse events following vaccination) Generalized vaccinia,Contact + Standard,"Until lesions dry and crusted, scabs separated",For contact with virus-containing lesions and exudative material.,Table_21
+Vaccinia (adverse events following vaccination) Progressive vaccinia,Contact + Standard,"Until lesions dry and crusted, scabs separated",For contact with virus-containing lesions and exudative material.,Table_21
+Vaccinia (adverse events following vaccination) Postvaccinia encephalitis,Standard,n/a,n/a,Table_21
+Vaccinia (adverse events following vaccination) Blepharitis or conjunctivitis,Contact + Standard,n/a,Use Contact Precautions if there is copious drainage.,Table_21
+Vaccinia (adverse events following vaccination) Iritis or keratitis,Standard,n/a,n/a,Table_21
+Vaccinia (adverse events following vaccination) Vaccinia-associated erythema multiforme (Stevens Johnson Syndrome),Standard,n/a,Not an infectious condition.,Table_21
+"Vaccinia  (adverse events following vaccination) Secondary bacterial infection (e.g., S. aureus , group A beta hemolytic Streptococcus )",Standard + Contact,n/a,"Follow organism-specific (strep, staph most frequent) recommendations and consider magnitude of drainage.",Table_21
+Varicella Zoster,Airborne + Contact + Standard,Until lesions dry and crusted,"Susceptible HCWs should not enter room if immune caregivers are available; no recommendation for face protection of immune HCWs; no recommendation for type of protection (i.e., surgical mask or respirator) for susceptible HCWs. In immunocompromised host with varicella pneumonia, prolong duration of precautions for duration of illness. Varicella Post-exposure Prophylaxis Update [April 2019] Update: Postexposure prophylaxis: provide postexposure vaccine ASAP but within 120 hours; for susceptible exposed persons for whom vaccine is contraindicated (immunocompromised persons, pregnant women, newborns whose mother’s varicella onset is <5 days before delivery or within 48 hours after delivery) provide varicella zoster immune globulin as soon as possible after exposure and within 10 days. Use Airborne for exposed susceptible persons and exclude exposed susceptible healthcare workers beginning 8 days after first exposure until 21 days after last exposure or 28 if received varicella zoster immune globulin, regardless of postexposure vaccination. [1036]",Table_21
+Variola (see Smallpox ),n/a,n/a,n/a,Table_21
+Vibrio parahaemolyticus (see Gastroenteritis ),n/a,n/a,n/a,Table_21
+Vincent’s angina (trench mouth),Standard,n/a,n/a,Table_21
+"Viral hemorrhagic fevers due to Lassa, Marburg, Ebola, Crimean-Congo Hemorrhagic Fever, and South American Hemorrhagic Fever viruses (i.e., those caused by Junin, Machupo, Chapare, Guanarito and Sabia viruses) Viral hemorrhagic fevers [September 2024] Update: Precaution recommendations for Viral hemorrhagic fevers have been updated.",See comments,"Duration of precautions should be determined on a case-by-case basis, in conjunction with local, state, and federal health authorities. Factors that should be considered include, but are not limited to, presence of symptoms, date symptoms resolved, other conditions that would require specific precautions (e.g. tuberculosis, Clostridium difficile ) and available laboratory information.",Guidance on Personal Protective Equipment (PPE) in U.S. Healthcare Settings for: Clinically Stable Patients Suspected to have VHF Confirmed Patients and Clinically Unstable Patients Suspected to have VHF,Table_21
+Viral respiratory diseases (not covered elsewhere) Adults,Standard,n/a,n/a,Table_21
+"Viral respiratory diseases (not covered elsewhere) Infants and young children (see Respiratory infectious disease, acute )",n/a,n/a,n/a,Table_21
+Whooping cough (see Pertussis ),n/a,n/a,n/a,Table_22
+Wound infections Major,Contact + Standard,Duration of illness,Until drainage stops or can be contained by dressing.,Table_22
+Wound infections Minor or limited,Standard,n/a,If dressing covers and contains drainage.,Table_22
+Yersinia enterocolitica Gastroenteritis (see Gastroenteritis ),n/a,n/a,n/a,Table_23
+Zoster (varicella-zoster) (see Herpes Zoster ),n/a,n/a,n/a,Table_24
+"Zygomycosis (phycomycosis, mucormycosis)",Standard,n/a,Not transmitted person-to-person.,Table_24
