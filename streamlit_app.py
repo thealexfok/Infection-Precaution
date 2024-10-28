@@ -39,17 +39,18 @@ if selected_infection:
     # Display the filtered data without any row ID
     st.table(filtered_data[['Infection/Condition', 'Type of Precaution', 'Duration of Precaution', 'Precautions/Comments']])
 else:
-    st.write("Please select an infection name from the dropdown.")
+    st.warning("Please select an infection name from the dropdown.")
 
 # Expandable section to view all data, excluding "Data ID"
 with st.expander("View all infections"):
     # Display all data without any row ID
-    st.table(data[['Infection/Condition', 'Type of Precaution', 'Duration of Precaution', 'Precautions/Comments']])
+    st.dataframe(data[['Infection/Condition', 'Type of Precaution', 'Duration of Precaution', 'Precautions/Comments']])
 
+st.divider()
 st.write("Data sourced from \n\n https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html")
 
-
+st.divider()
 footer_html = """<div style='text-align: center;'>
-  <p>Developed with ❤️ from St. Helena</p>
+  <p>Developed with ❤️ in St. Helena</p>
 </div>"""
 st.markdown(footer_html, unsafe_allow_html=True)
