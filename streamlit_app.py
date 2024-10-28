@@ -9,36 +9,40 @@ def load_data():
 
 data = load_data()
 
-# Helper function for fuzzy matching
-def fuzzy_search(query, choices, limit=5, threshold=70):
-    results = process.extract(query, choices, limit=limit)
-    return [choice for choice, score in results if score >= threshold]
+# Remove rows where 'Infection/Condition' is NaN
+data = data.dropna(subset=['Infection/Condition'])
+
+
+# Sort the infection conditions alphabetically
+all_conditions = sorted(data['Infection/Condition'].unique().tolist())
 
 # App layout
 st.image("logo.png")
 st.title("Infection Precautions Dictionary")
-st.write("Search for an infection or condition to view recommended isolation precautions.")
+st.write("Select an infection or condition to view recommended isolation precautions.")
 
-# Real-time search input without modifying session state directly
-search_input = st.text_input("Search for an infection or condition", value="")
+# Create a select box with dynamic filtering
+selected_infection = st.selectbox("Type to search for an infection/condition:", options=[""] + all_conditions)
 
-# Real-time filtering based on fuzzy matching
-if search_input:
-    # Perform fuzzy matching on the "Infection/Condition" column
-    matches = fuzzy_search(search_input, data['Infection/Condition'].tolist())
+# Display selected option details if an infection is selected
+if selected_infection:
+    filtered_data = data[data['Infection/Condition'] == selected_infection]
+    st.write("### Search Results")
     
-    if matches:
-        # Filter data to show only matching results
-        filtered_data = data[data['Infection/Condition'].isin(matches)]
-        st.write("### Search Results")
-        st.table(filtered_data[['Infection/Condition', 'Type of Precaution', 'Duration of Precaution', 'Precautions/Comments']])
-    else:
-        st.write("No matching infections found.")
+    # Display the filtered data without any row ID
+    st.table(filtered_data[['Infection/Condition', 'Type of Precaution', 'Duration of Precaution', 'Precautions/Comments']])
 else:
-    st.write("Please enter an infection name to search.")
+    st.write("Please select an infection name from the dropdown.")
 
-# Expandable section to view all data
+# Expandable section to view all data, excluding "Data ID"
 with st.expander("View all infections"):
+    # Display all data without any row ID
     st.table(data[['Infection/Condition', 'Type of Precaution', 'Duration of Precaution', 'Precautions/Comments']])
 
 st.write("Data sourced from \n\n https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html")
+
+
+footer_html = """<div style='text-align: center;'>
+  <p>Developed with ❤️ from St. Helena</p>
+</div>"""
+st.markdown(footer_html, unsafe_allow_html=True)
