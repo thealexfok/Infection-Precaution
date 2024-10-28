@@ -1,6 +1,13 @@
 import streamlit as st
 import pandas as pd
 from fuzzywuzzy import process
+from PIL import Image
+
+im = Image.open("favicon.ico")
+st.set_page_config(
+    page_title="Infection Dictionary",
+    page_icon=im,
+)
 
 # Load the data with caching to avoid reloading on every interaction
 @st.cache_data
