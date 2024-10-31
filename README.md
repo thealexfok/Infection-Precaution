@@ -6,6 +6,7 @@ A simple app to query infections / conditions.
 
 ### I could not access the app
 ![image](https://github.com/user-attachments/assets/5332748a-3cb6-497a-96a9-19cd0227687e)
+
 Simply click to blue button to wake it up and wait a few seconds.
 
 ### The database is not updated
