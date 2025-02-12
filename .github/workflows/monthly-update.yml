@@ -12,6 +12,8 @@ jobs:
     
     steps:
     - uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -31,9 +33,14 @@ jobs:
         
     - name: Commit and push if changes
       run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add infection_data.csv
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update data [skip ci]" && git push "https://${{ github.actor }}:${{ github.token }}@github.com/${{ github.repository }}.git")
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update data [skip ci]"
+          git push
+        fi
       env:
         GITHUB_TOKEN: ${{ github.token }}
