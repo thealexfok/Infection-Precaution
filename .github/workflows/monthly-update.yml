@@ -23,6 +23,8 @@ jobs:
         python -m pip install --upgrade pip
         pip install pandas
         pip install BeautifulSoup4
+        pip install requests
+        pip install numpy
         
     - name: Run scraper
       run: python scraper.py
