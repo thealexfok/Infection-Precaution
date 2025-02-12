@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 from fuzzywuzzy import process
 from PIL import Image
+import os
 
 im = Image.open("favicon.ico")
 st.set_page_config(
@@ -12,9 +13,12 @@ st.set_page_config(
 # Load the data with caching to avoid reloading on every interaction
 @st.cache_data
 def load_data():
-    return pd.read_csv("infection_data.csv")
+    data = pd.read_csv("infection_data.csv")
+    # Get the last modified time of the data file
+    last_updated = os.path.getmtime("infection_data.csv")
+    return data, last_updated
 
-data = load_data()
+data, last_updated = load_data()
 
 # Remove rows where 'Infection/Condition' is NaN
 data = data.dropna(subset=['Infection/Condition'])
@@ -26,6 +30,7 @@ all_conditions = sorted(data['Infection/Condition'].unique().tolist())
 # App layout
 st.image("logo.png")
 st.title("Infection Precautions Dictionary")
+st.caption(f"Last updated: {pd.to_datetime(last_updated, unit='s').strftime('%Y-%m-%d')}")
 st.write("Select an infection or condition to view recommended isolation precautions.")
 
 # Create a select box with dynamic filtering
